@@ -1,2 +1,266 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
-C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(497,5): error MSB8041: MFC-Bibliotheken sind für dieses Projekt erforderlich. Installieren Sie sie über den Visual Studio-Installer (Registerkarte "Einzelne Komponenten") für alle Toolsets und Architekturen, die verwendet werden.
+﻿  StdAfx.cpp
+  AObject.cpp
+  AProperty.cpp
+  AVariant.cpp
+  ColorGrid.cpp
+  ColorPickerDlg.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „ColorPickerDlg.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „ColorPickerDlg.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „ColorPickerDlg.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „ColorPickerDlg.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „ColorPickerDlg.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „ColorPickerDlg.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „ColorPickerDlg.cpp“ wird kompiliert)
+  
+  Common.cpp
+  CustomColorDialog.cpp
+  CustomVectorDlg.cpp
+  DIB.CPP
+  MemoEditDlg.cpp
+  PropertyBooleanBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyBooleanBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyBooleanBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyBooleanBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyBooleanBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyBooleanBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyBooleanBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyBooleanBox.cpp“ wird kompiliert)
+  
+  PropertyBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyBox.cpp“ wird kompiliert)
+  
+  PropertyColorBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyColorBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyColorBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyColorBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyColorBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyColorBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyColorBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyColorBox.cpp“ wird kompiliert)
+  
+  PropertyCustomBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyCustomBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyCustomBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyCustomBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyCustomBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyCustomBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyCustomBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyCustomBox.cpp“ wird kompiliert)
+  
+  PropertyDialog.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyDialog.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyDialog.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyDialog.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyDialog.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyDialog.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyDialog.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyDialog.cpp“ wird kompiliert)
+  
+  PropertyDoubleBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyDoubleBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyDoubleBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyDoubleBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyDoubleBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyDoubleBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyDoubleBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyDoubleBox.cpp“ wird kompiliert)
+  
+  PropertyFileBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\Output\include\aaudio\FEventSystem.h(59,8): error C2039: "string" ist kein Member von "std".
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\cmath(909,1):
+      Siehe Deklaration von "std"
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\Output\include\aaudio\FEventSystem.h(59,17): error C3646: "m_strFolder": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\Output\include\aaudio\FEventSystem.h(59,8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyFileBox.cpp“ wird kompiliert)
+  
+  PropertyFloatBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyFloatBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyFloatBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyFloatBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyFloatBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyFloatBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyFloatBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyFloatBox.cpp“ wird kompiliert)
+  
+  PropertyFontBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyFontBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyFontBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyFontBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyFontBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyFontBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyFontBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyFontBox.cpp“ wird kompiliert)
+  
+  PropertyIDBox.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyIDBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyIDBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „PropertyIDBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „PropertyIDBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „PropertyIDBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „PropertyIDBox.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\A3DSDK\Include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „PropertyIDBox.cpp“ wird kompiliert)
+  
+  Code wird generiert...
+  Kompilieren...
+  PropertyInteger64Box.cpp

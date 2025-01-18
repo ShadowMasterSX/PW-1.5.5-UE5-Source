@@ -1,46 +1,25 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
-  2DGiftWrap.cpp
+﻿  2DGiftWrap.cpp
   2DObstruct.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „2DGiftWrap.cpp“ wird kompiliert)
-  
   aabbcd.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „aabbcd.cpp“ wird kompiliert)
-  
   BestFit.cpp
   CDWithCH.cpp
   CombGenerator.cpp
   ConvexHullAlgorithm.cpp
   ConvexHullArchive.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „ConvexHullArchive.cpp“ wird kompiliert)
-  
   ConvexHullData.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „ConvexHullData.cpp“ wird kompiliert)
-  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\CHBasedCD\ConvexHullData.cpp(1095,7): error C3861: "_isnan": Bezeichner wurde nicht gefunden.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\CHBasedCD\ConvexHullData.cpp(1095,37): error C3861: "_isnan": Bezeichner wurde nicht gefunden.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\CHBasedCD\ConvexHullData.cpp(1095,67): error C3861: "_isnan": Bezeichner wurde nicht gefunden.
   ConvexPolytope.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „ConvexPolytope.cpp“ wird kompiliert)
-  
   EdgeStack.cpp
   Face.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\CHBasedCD\Face.cpp(266,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\CHBasedCD\Face.cpp(276,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\CHBasedCD\Face.cpp(266,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\CHBasedCD\Face.cpp(276,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
   GiftWrap.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „GiftWrap.cpp“ wird kompiliert)
-  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\CHBasedCD\GiftWrap.cpp(937,17): warning C4477: "fscanf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "int" auf.
   HalfSpace.cpp
   LEquations.cpp
   Matrix.cpp
   Patch.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „Patch.cpp“ wird kompiliert)
-  
   RightPrism.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
-  (Quelldatei „RightPrism.cpp“ wird kompiliert)
-  
   Code wird generiert...

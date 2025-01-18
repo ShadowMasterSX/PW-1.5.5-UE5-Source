@@ -1,1 +1,1 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
+﻿

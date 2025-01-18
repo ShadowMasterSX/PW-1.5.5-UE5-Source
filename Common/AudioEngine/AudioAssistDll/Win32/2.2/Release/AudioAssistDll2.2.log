@@ -1,2 +1,45 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
-C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(497,5): error MSB8041: MFC-Bibliotheken sind für dieses Projekt erforderlich. Installieren Sie sie über den Visual Studio-Installer (Registerkarte "Einzelne Komponenten") für alle Toolsets und Architekturen, die verwendet werden.
+﻿  stdafx.cpp
+  DynSizeCtrl.cpp
+  EventDisplay.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioAssistDll\resource.h(5,9): warning C4005: "IDD_SELECT_EVENT": Makro-Neudefinition
+  (Quelldatei „/AudioEditor/EventDisplay.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEditor\resource.h(57,9):
+      siehe vorherige Definition von "IDD_SELECT_EVENT"
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioAssistDll\resource.h(6,9): warning C4005: "IDC_TREE_EVENT": Makro-Neudefinition
+  (Quelldatei „/AudioEditor/EventDisplay.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEditor\resource.h(109,9):
+      siehe vorherige Definition von "IDC_TREE_EVENT"
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioAssistDll\resource.h(9,9): warning C4005: "IDC_LIST_REVERB": Makro-Neudefinition
+  (Quelldatei „/AudioEditor/EventDisplay.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEditor\resource.h(62,9):
+      siehe vorherige Definition von "IDC_LIST_REVERB"
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioAssistDll\resource.h(17,9): warning C4005: "IDI_ICON_EVENT": Makro-Neudefinition
+  (Quelldatei „/AudioEditor/EventDisplay.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEditor\resource.h(31,9):
+      siehe vorherige Definition von "IDI_ICON_EVENT"
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioAssistDll\resource.h(19,9): warning C4005: "IDI_ICON_EVENT_GROUP": Makro-Neudefinition
+  (Quelldatei „/AudioEditor/EventDisplay.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEditor\resource.h(30,9):
+      siehe vorherige Definition von "IDI_ICON_EVENT_GROUP"
+  
+  TreeCtrlEx.cpp
+  AudioAssistDll.cpp
+  DlgSelectEvent.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\Output\Include\aaudio\FEventSystem.h(59,8): error C2039: "string" ist kein Member von "std".
+  (Quelldatei „/DlgSelectEvent.cpp“ wird kompiliert)
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\vector(29,1):
+      Siehe Deklaration von "std"
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\Output\Include\aaudio\FEventSystem.h(59,17): error C3646: "m_strFolder": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „/DlgSelectEvent.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\Output\Include\aaudio\FEventSystem.h(59,8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „/DlgSelectEvent.cpp“ wird kompiliert)
+  
+  DlgSelectReverb.cpp
+  EventSelector.cpp
+  ReverbSelector.cpp

@@ -1,772 +1,771 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
-  FAudio.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+﻿  FAudio.cpp
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „FAudio.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „FAudio.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudio.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudio.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudio.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudio.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FAudioBank.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „FAudioBank.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „FAudioBank.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudioBank.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudioBank.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudioBank.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „FAudioBank.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FAudioBankArchive.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FAudioBankArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „FAudioBankArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FAudioBankArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „FAudioBankArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FAudioBankArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „FAudioBankArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FAudioBankArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „FAudioBankArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FAudioBankArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „FAudioBankArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FAudioBankArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „FAudioBankArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FAudioContainer.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioContainer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioContainer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioContainer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioContainer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioContainer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioContainer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FAudioEngine.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FAudioEngine.cpp(64,12): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FAudioEngine.cpp(64,12): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
   FAudioGroup.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FAudioInstance.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C2039: "string" ist kein Member von "std".
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C2039: "string" ist kein Member von "std".
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioInstance.cpp“ wird kompiliert)
       C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\cmath(909,1):
       Siehe Deklaration von "std"
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.h(59,17): error C3646: "m_strFolder": Unbekannter Überschreibungsspezifizierer
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.h(59,17): error C3646: "m_strFolder": Unbekannter Überschreibungsspezifizierer
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioInstance.cpp“ wird kompiliert)
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioInstance.cpp“ wird kompiliert)
   
   FAudioInstanceManager.cpp
   FAudioManager.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FAudioTemplate.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FAudioTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FCriticalSectionWrapper.cpp
   FCurve.cpp
   FEffect.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FEffect.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FEffect.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FEffect.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FEffect.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FEffect.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
   (Quelldatei „../../AudioEngine/AudioEngine/FEffect.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FEffectFactory.cpp
   FEvent.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEvent.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FEventGroup.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventGroup.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FEventInstance.cpp
   FEventLayer.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventLayer.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventLayer.cpp(363,26):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FEventLayerInstance.cpp
   FEventManager.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   Kompilieren...
   FEventParameter.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventParameter.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FEventProject.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventProject.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FEventSystem.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C2039: "string" ist kein Member von "std".
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C2039: "string" ist kein Member von "std".
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
       C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\cmath(909,1):
       Siehe Deklaration von "std"
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.h(59,17): error C3646: "m_strFolder": Unbekannter Überschreibungsspezifizierer
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.h(59,17): error C3646: "m_strFolder": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.h(59,8): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FEventSystem.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(425,5): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(426,3): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,51): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,18): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,18):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(425,5): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(426,3): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,51): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,18): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,18):
       Platzhalter und deren Parameter erwarten 1 variadic-Argumente, es wurden aber 0 variadic-Argumente bereitgestellt.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,18):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(429,18):
       Das fehlende variadic-Argument "1" ist für die Zeichenfolge "%s" erforderlich.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,51): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,23): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,23):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,51): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,23): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,23):
       Platzhalter und deren Parameter erwarten 3 variadic-Argumente, es wurden aber 2 variadic-Argumente bereitgestellt.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,23):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(478,23):
       Das fehlende variadic-Argument "3" ist für die Zeichenfolge "%s" erforderlich.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(495,5): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(496,3): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,51): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,18): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,18):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(495,5): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(496,3): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,51): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,18): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,18):
       Platzhalter und deren Parameter erwarten 1 variadic-Argumente, es wurden aber 0 variadic-Argumente bereitgestellt.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,18):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(499,18):
       Das fehlende variadic-Argument "1" ist für die Zeichenfolge "%s" erforderlich.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,52): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,23): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,23):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,52): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,23): warning C4473: "sprintf": nicht genügend Argumente für Formatzeichenfolge übergeben
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,23):
       Platzhalter und deren Parameter erwarten 3 variadic-Argumente, es wurden aber 2 variadic-Argumente bereitgestellt.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,23):
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(548,23):
       Das fehlende variadic-Argument "3" ist für die Zeichenfolge "%s" erforderlich.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FEventSystem.cpp(593,2): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FEventSystem.cpp(593,2): error C2065: "m_strFolder": nichtdeklarierter Bezeichner
   FGuid.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\FGuid.cpp(21,15):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FIntervalManager.cpp
   FLog.cpp
   FLogManager.cpp
   FPropCurves.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FPropCurves.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FReverb.cpp
   FReverbDataManager.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FReverbDataManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FSoundDef.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDef.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FSoundDefArchive.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefArchive.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FSoundDefManager.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundDefManager.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FSoundInstance.cpp
   FSoundInstanceTemplate.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%04x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned short *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
-  (Quelldatei „../../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
-      C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25): warning C4477: "sscanf_s": Die Formatzeichenfolge "%02x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  (Quelldatei „../AudioEngine/AudioEngine/FSoundInstanceTemplate.cpp“ wird kompiliert)
+      C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Common\AudioEngine\AudioEngine\xml\xmlcommon.h(81,25):
       Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
   
   FSoundPlayList.cpp

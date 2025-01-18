@@ -1,6 +1,248 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
-cl : befehlszeile  warning D9035: Die Option "Zc:forScope-" ist veraltet und wird in einer der nächsten Versionen entfernt.
+﻿cl : befehlszeile  warning D9035: Die Option "Zc:forScope-" ist veraltet und wird in einer der nächsten Versionen entfernt.
   APhysXStdAfx.cpp
-C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\Output\a3dsdk\include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(99,17): error C2065: "D3DDISPLAYMODE": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(99,33): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(99,39): error C2146: Syntaxfehler: Fehlendes ">" vor Bezeichner "D3DDISPLAYMODE"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(99,10): error C2062: "unknown-type"-Typ unerwartet
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(99,72): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(118,18): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(118,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(118,33): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(126,24): error C3646: "m_d3dpp": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(126,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(128,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(128,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(128,36): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(129,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(129,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(129,38): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(130,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(130,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(130,37): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(131,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(131,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(131,47): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(132,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(132,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(132,46): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(134,12): error C3646: "m_d3dcaps": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(134,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(179,19): error C3646: "m_DisplayModes": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(179,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(203,31): error C2061: Syntaxfehler: Bezeichner "IDirect3D8"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(323,18): error C3646: "GetD3DCaps": Unbekannter Überschreibungsspezifizierer
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(323,29): error C2059: Syntaxfehler: ")"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(323,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(360,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(360,22): error C2143: Syntaxfehler: Es fehlt ";" vor "&"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(360,50): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(412,55): error C2061: Syntaxfehler: Bezeichner "IDirect3DSurface8"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(419,26): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(419,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(419,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(419,43): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(420,27): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(420,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(420,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(420,45): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(421,27): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(421,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(421,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(421,46): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(452,39): error C2061: Syntaxfehler: Bezeichner "IDirect3DSurface8"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(457,27): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(457,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(457,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(457,56): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(458,27): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(458,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(458,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(458,56): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(466,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(466,29): error C2143: Syntaxfehler: Es fehlt ";" vor "&"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(466,42): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(324,52): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(359,43): error C2065: "m_DisplayModes": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(441,51): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(442,56): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(443,46): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(444,40): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(445,44): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(446,48): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(447,49): error C2065: "m_d3dcaps": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(454,3): error C2065: "m_pRestoreToRenderTarget": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(454,30): error C2065: "pRestoreToRenderTarget": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(455,3): error C2065: "m_pRestoreToDepthBuffer": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DDevice.h(455,29): error C2065: "pRestoreToDepthBuffer": nichtdeklarierter Bezeichner
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DEngine.h(150,12): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DEngine.h(150,2): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DEngine.h(150,22): error C2238: Unerwartete(s) Token vor ";"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DEngine.h(281,20): error C2143: Syntaxfehler: Es fehlt ";" vor "*"
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DEngine.h(281,9): error C7524: Der Bezeichner "inline" kann nicht in einer Blockbereichsdeklaration oder einem nicht statischen Datenelement angezeigt werden.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DEngine.h(281,9): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DEngine.h(281,31): error C2334: Unerwartete(s) Token vor "{"; sichtbarer Funktionstext wird übersprungen
+  (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-1.5.5-UE5-Source\Angelica2\Output\a3dsdk\include\A3DPixelShader.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "D3dx8core.h": No such file or directory
   (Quelldatei „../APhysXEngine/Src/APhysXStdAfx.cpp“ wird kompiliert)
   
