@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AMemory.h</FILENAME>
+      <LINE>113</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inkonsistente Anmerkung für "new": diese Instanz verfügt über keine Anmerkungen. Siehe c:\users\dominik\documents\github\pw-cliente-source-153\element\celementclient\predefined c++ types (compiler internal)(43). Die erste vom Benutzer bereitgestellte Anmerkung zu dieser integrierten Funktion befindet sich in Zeile c:\program files\microsoft visual studio\2022\enterprise\vc\tools\msvc\14.42.34433\include\vcruntime_new.h(44). </DESCRIPTION>
+    <FUNCTION>new</FUNCTION>
+    <DECORATED>??2@YAPAXI@Z</DECORATED>
+    <FUNCLINE>113</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AMemory.h</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inkonsistente Anmerkung für "new[]": diese Instanz verfügt über keine Anmerkungen. Siehe c:\users\dominik\documents\github\pw-cliente-source-153\element\celementclient\predefined c++ types (compiler internal)(68). Die erste vom Benutzer bereitgestellte Anmerkung zu dieser integrierten Funktion befindet sich in Zeile c:\program files\microsoft visual studio\2022\enterprise\vc\tools\msvc\14.42.34433\include\vcruntime_new.h(55). </DESCRIPTION>
+    <FUNCTION>new[]</FUNCTION>
+    <DECORATED>??_U@YAPAXI@Z</DECORATED>
+    <FUNCLINE>115</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>ECScriptOption.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "CECScriptOption::m_bDisableHelp" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>CECScriptOption::{ctor}</FUNCTION>
+    <DECORATED>??0CECScriptOption@@QAE@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CECScriptOption::m_bDisableHelp</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

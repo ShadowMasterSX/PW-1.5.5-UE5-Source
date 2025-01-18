@@ -1,0 +1,31 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
+  CriticalSession.cpp
+  FTDriverDLL.cpp
+  FTFont.cpp
+  FTGlyphCache.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\FTDriver\FTDriverDLL\FTFont.cpp(125,70): warning C4066: Mit Ausnahme des ersten Zeichens werden die Zeichen in einer "breiten" Zeichenkonstante ignoriert
+  FTManager.cpp
+  MyFTCache.cpp
+  MyRaster.cpp
+  StdAfx.cpp
+  WTFont.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\FTDriver\FTDriverDLL.NET2005\Win32\2.2\Release\FTDriverDLL.NET2005.dll) entspricht nicht dem OutputFile-Eigenschaftswert (C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Common\FTDriver\FTDriverDLL.NET2005\Win32\2.2\Release\FTDriver.dll) von Linker. Das Projekt wird daher möglicherweise nicht ordnungsgemäß erstellt. Damit dieses Problem behoben werden kann, müssen die Eigenschaftswerte für $(OutDir), $(TargetName) und $(TargetExt) dem in %(Link.OutputFile) angegebenen Wert entsprechen.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1394,5): warning MSB8012: TargetName(FTDriverDLL.NET2005) entspricht nicht dem OutputFile-Eigenschaftswert (FTDriver) von Linker. Das Projekt wird daher möglicherweise nicht ordnungsgemäß erstellt. Damit dieses Problem behoben werden kann, müssen die Eigenschaftswerte für $(OutDir), $(TargetName) und $(TargetExt) dem in %(Link.OutputFile) angegebenen Wert entsprechen.
+     Bibliothek "Win32\2.2\Release\FTDriverDLL.NET2005.lib" und Objekt "Win32\2.2\Release\FTDriverDLL.NET2005.exp" werden erstellt.
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  All 234 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+freetype2110MT.lib(ftcache.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(ftglyph.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(ftsynth.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(ftbase.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(ftinit.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(ftbitmap.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(ftsystem.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(smooth.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(sfnt.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(raster.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+freetype2110MT.lib(truetype.obj) : error LNK2026: Unsicheres Modul für SAFESEH-Image.
+Win32\2.2\Release\FTDriver.dll : fatal error LNK1281: SAFESEH-Image konnte nicht generiert werden.

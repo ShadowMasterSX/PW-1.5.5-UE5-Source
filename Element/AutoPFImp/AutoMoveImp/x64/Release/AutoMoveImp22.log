@@ -1,0 +1,54 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
+  CluCommon.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\CluCommon.cpp(8,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AFile.h": No such file or directory
+  CluGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\CluGraph.cpp(8,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  CluGraphConnector.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\CluGraphConnector.cpp(9,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  ClusterAbstraction.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\ClusterAbstraction.cpp(9,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AFile.h": No such file or directory
+  GAStar.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\GAStar.h(11,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DTypes.h": No such file or directory
+  (Quelldatei „GAStar.cpp“ wird kompiliert)
+  
+  GHeap.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\GHeap.h(12,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „GHeap.cpp“ wird kompiliert)
+  
+  Graph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(11,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „Graph.cpp“ wird kompiliert)
+  
+  Island.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Island.cpp(9,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DGDI.h": No such file or directory
+  LayerMap.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\LayerMap.cpp(9,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  MapGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MapGraph.cpp(9,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  MapNode.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MapNode.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „MapNode.cpp“ wird kompiliert)
+  
+  MAStar.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MAStar.h(4,1): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DTypes.h": No such file or directory
+  (Quelldatei „MAStar.cpp“ wird kompiliert)
+  
+  MoveAgent.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(8,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  MoveMap.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(9,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  MultiCluGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MultiCluGraph.cpp(8,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  OptimizePath.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\OptimizePath.h(12,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „OptimizePath.cpp“ wird kompiliert)
+  
+  PfClu.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\PfClu.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DTypes.h": No such file or directory
+  (Quelldatei „PfClu.cpp“ wird kompiliert)
+  
+  PfConstant.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\PfConstant.h(13,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DTypes.h": No such file or directory
+  (Quelldatei „PfConstant.cpp“ wird kompiliert)
+  
+  Code wird generiert...

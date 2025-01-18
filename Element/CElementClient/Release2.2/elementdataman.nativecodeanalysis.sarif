@@ -1,0 +1,668 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"talk_proc::window::id\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3898,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::window::{ctor}",
+                  "decoratedName": "??0window@talk_proc@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "talk_proc::window::id"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"talk_proc::window::talk_text_len\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3898,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::window::{ctor}",
+                  "decoratedName": "??0window@talk_proc@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "talk_proc::window::talk_text_len"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"talk_proc::window::id_parent\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3898,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::window::{ctor}",
+                  "decoratedName": "??0window@talk_proc@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "talk_proc::window::id_parent"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"talk_proc::window::num_option\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3898,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::window::{ctor}",
+                  "decoratedName": "??0window@talk_proc@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "talk_proc::window::num_option"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"talk_proc::window::talk_text\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3898,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::window::{ctor}",
+                  "decoratedName": "??0window@talk_proc@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "talk_proc::window::talk_text"
+          }
+        },
+        {
+          "ruleId": "C6029",
+          "message": {
+            "text": "Möglicher Pufferüberlauf im Aufruf von „fread“."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3921,
+                  "startColumn": 39
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::window::load",
+                  "decoratedName": "?load@window@talk_proc@@QAEHPAU_iobuf@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6029",
+          "message": {
+            "text": "Möglicher Pufferüberlauf im Aufruf von „fread“."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3925,
+                  "startColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::window::load",
+                  "decoratedName": "?load@window@talk_proc@@QAEHPAU_iobuf@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"talk_proc::text\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+                },
+                "region": {
+                  "startLine": 3935,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "talk_proc::{ctor}",
+                  "decoratedName": "??0talk_proc@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "talk_proc::text"
+          }
+        },
+        {
+          "ruleId": "C6001",
+          "message": {
+            "text": "Nicht initialisierter Speicher \"id\" wird verwendet."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                },
+                "region": {
+                  "startLine": 3035,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "elementdataman::get_cur_data_id",
+                  "decoratedName": "?get_cur_data_id@elementdataman@@QAEIW4ID_SPACE@@AAW4DATA_TYPE@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 2950,
+                            "startColumn": 15
+                          }
+                        },
+                        "message": {
+                          "text": "\"id\" ist nicht initialisiert"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 2951,
+                            "startColumn": 9
+                          }
+                        },
+                        "message": {
+                          "text": "Annahme, der Schalter (\"idspace\") wird zum Standardfall aufgelöst"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3031,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3032,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3035,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3035,
+                            "startColumn": 9
+                          }
+                        },
+                        "message": {
+                          "text": "\"id\" wird verwendet, wurde jedoch möglicherweise nicht initialisiert."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6001",
+          "message": {
+            "text": "Nicht initialisierter Speicher \"id\" wird verwendet."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                },
+                "region": {
+                  "startLine": 3131,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "elementdataman::get_next_data_id",
+                  "decoratedName": "?get_next_data_id@elementdataman@@QAEIW4ID_SPACE@@AAW4DATA_TYPE@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3040,
+                            "startColumn": 15
+                          }
+                        },
+                        "message": {
+                          "text": "\"id\" ist nicht initialisiert"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3041,
+                            "startColumn": 9
+                          }
+                        },
+                        "message": {
+                          "text": "Annahme, der Schalter (\"idspace\") wird zum Standardfall aufgelöst"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3127,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3128,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3131,
+                            "startColumn": 2
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                          },
+                          "region": {
+                            "startLine": 3131,
+                            "startColumn": 9
+                          }
+                        },
+                        "message": {
+                          "text": "\"id\" wird verwendet, wurde jedoch möglicherweise nicht initialisiert."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6029",
+          "message": {
+            "text": "Möglicher Pufferüberlauf im Aufruf von „fread“."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                },
+                "region": {
+                  "startLine": 3959,
+                  "startColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "elementdataman::load_data",
+                  "decoratedName": "?load_data@elementdataman@@QAEHPBD@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6029",
+          "message": {
+            "text": "Möglicher Pufferüberlauf im Aufruf von „fread“."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/elementdataman.cpp"
+                },
+                "region": {
+                  "startLine": 4068,
+                  "startColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "elementdataman::load_data",
+                  "decoratedName": "?load_data@elementdataman@@QAEHPBD@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "febf8a2758bdd2dc7a482b16a19c43894bd23ede391ad12073de6e5b6a5a5db0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CCommon/exptypes.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "fc471627eb41fdc7dcb5ee472b5cb79419802f7df9723c5de86352cc388f9777"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/ccommon/elementdataman.h"
+          },
+          "hashes": {
+            "sha-256": "9efb0dcbb8bfaa641b7c543c7c059d89e3bb9f4797d6c6f27989c9fd50cac283"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/vector.h"
+          },
+          "hashes": {
+            "sha-256": "68c627400676365c3d2e1fb61cfcba71674b563163c6d84e7c1a39380b1316c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashmap.h"
+          },
+          "hashes": {
+            "sha-256": "20eca44a6b08876747e4d684dec2ab8dc8fa738b477417957594c64934e88ca3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashtab.h"
+          },
+          "hashes": {
+            "sha-256": "dfcfe94cf0ce7da9e18683c3d96efd89fa079984a437b038c6a94613ef16c568"
+          }
+        }
+      ]
+    }
+  ]
+}

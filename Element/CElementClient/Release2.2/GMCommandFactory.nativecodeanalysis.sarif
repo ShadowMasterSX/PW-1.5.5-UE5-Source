@@ -1,0 +1,166 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Rückgabewert wird ignoriert: \"swscanf\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gmcommandfactory.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+                },
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 2,
+                  "endLine": 259,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AWString::ToFloat",
+                  "decoratedName": "?ToFloat@AWString@@QBEMXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gmcommandfactory.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "ed51769183ab5583bc85d89e21fed84db6f39ae0a5c20f58f3a6bbaba24e9eb7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f8ef1b3c2166a11303845514de1b5c56609a975662e5b3e9a790e3abdd380ea4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gmcommandfactory.h"
+          },
+          "hashes": {
+            "sha-256": "a1318719e25d63e19966a4c8f4afcdc2a1177d80ecddf53251071655b377aaa2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/singletonholder.h"
+          },
+          "hashes": {
+            "sha-256": "51937af628c9cad28fe58ac9075cbb2a05938e875d45e8836b1dac6744ed7184"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/factory.h"
+          },
+          "hashes": {
+            "sha-256": "41c6cc88900d1470e3c460b5ad9a6a73244525e7d9f0ebfe62b1f9cf69995166"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashmap.h"
+          },
+          "hashes": {
+            "sha-256": "20eca44a6b08876747e4d684dec2ab8dc8fa738b477417957594c64934e88ca3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashtab.h"
+          },
+          "hashes": {
+            "sha-256": "dfcfe94cf0ce7da9e18683c3d96efd89fa079984a437b038c6a94613ef16c568"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/vector.h"
+          },
+          "hashes": {
+            "sha-256": "68c627400676365c3d2e1fb61cfcba71674b563163c6d84e7c1a39380b1316c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gmcommand.h"
+          },
+          "hashes": {
+            "sha-256": "2dd2678ce9eb8ce420227b5d3f06fab94f7e62ac7de2e30a9d680a5b8bd2fcec"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/param.h"
+          },
+          "hashes": {
+            "sha-256": "48b6aa1124969f4111ae2b14c08113366232adf8635c2cae1a9f666de3c5a968"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aassist.h"
+          },
+          "hashes": {
+            "sha-256": "ea630dfb9c24713ece52fdce0989eba376d0da3e8fd0c5e12b3799848cc04b12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astring.h"
+          },
+          "hashes": {
+            "sha-256": "e5b80e295e2c1b7fa25acb4691465e465b4722e6b018d8535aad888c3d74b737"
+          }
+        }
+      ]
+    }
+  ]
+}

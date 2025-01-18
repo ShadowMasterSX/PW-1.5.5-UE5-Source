@@ -1,0 +1,891 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6255",
+          "message": {
+            "text": "„_alloca“ kennzeichnet Fehler durch Auslösen einer Stapelüberlaufausnahme. Verwenden Sie stattdessen _malloca."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/gt_overlay.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                },
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 36
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "overlay::GTOverlay::{ctor}",
+                  "decoratedName": "??0GTOverlay@overlay@@AAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6387",
+          "message": {
+            "text": "\"((((_lpa=version))==0))?(0):((_convert=((static_cast<int>strlen(_lpa)+1)), ((2147483647/2<_convert))?(0):(AtlA2WHelper((WCHAR *)_alloca(_convert*sizeof(WCHAR)), _lpa, _convert, _acp))))\" könnte \"0\" sein:  dies entspricht nicht der Spezifikation für Funktion \"PathAppendW\". "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/gt_overlay.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                },
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 5,
+                  "endLine": 62,
+                  "endColumn": 36
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "overlay::GTOverlay::{ctor}",
+                  "decoratedName": "??0GTOverlay@overlay@@AAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 42,
+                            "startColumn": 1
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 31,
+                            "startColumn": 38
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 32,
+                            "startColumn": 41
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 33,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 38
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 38
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 36,
+                            "startColumn": 41
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 37,
+                            "startColumn": 23
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 38,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 39,
+                            "startColumn": 17
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 40,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 41,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 43,
+                            "startColumn": 25
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 45,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 46,
+                            "startColumn": 19
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 48,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 50,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 51,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 52,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 55,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 57,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 58,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 59,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 61,
+                            "startColumn": 5
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 62,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6001",
+          "message": {
+            "text": "Nicht initialisierter Speicher \"local_version_filepath\" wird verwendet."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/gt_overlay.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "overlay::GTOverlay::{ctor}",
+                  "decoratedName": "??0GTOverlay@overlay@@AAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 42,
+                            "startColumn": 1
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 31,
+                            "startColumn": 38
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 32,
+                            "startColumn": 41
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 33,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 38
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 38
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 36,
+                            "startColumn": 41
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 37,
+                            "startColumn": 23
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 38,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 39,
+                            "startColumn": 17
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 40,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 41,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 43,
+                            "startColumn": 25
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 45,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 46,
+                            "startColumn": 19
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 48,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 50,
+                            "startColumn": 11
+                          }
+                        },
+                        "message": {
+                          "text": "\"local_version_filepath\" ist nicht initialisiert"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 51,
+                            "startColumn": 14
+                          }
+                        },
+                        "message": {
+                          "text": "\"local_version_filepath\" ist ein Eingabe-/Ausgabeargument für \"PathAppendW\" (in c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\um\\shlwapi.h:537 deklariert)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 52,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/GT/gt_overlay.cpp"
+                          },
+                          "region": {
+                            "startLine": 51,
+                            "startColumn": 15
+                          }
+                        },
+                        "message": {
+                          "text": "\"local_version_filepath\" wird verwendet, wurde jedoch möglicherweise nicht initialisiert."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/gt_overlay.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "15a63ad4cc1556a17ca589d6660f624ec682cd7c65d2c142fb5bd2ee392c64e6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/gt_overlay.h"
+          },
+          "hashes": {
+            "sha-256": "5bfb152184f80fcead4ae5f83043fce15a9c97f09c9cd38bd16dc7356b999e48"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/overlay.h"
+          },
+          "hashes": {
+            "sha-256": "1c0c9c5b8f6bc9b1b5377527e204c7ad1b848e59bdcf57b4174c8e28930a85b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/hook_game.h"
+          },
+          "hashes": {
+            "sha-256": "c2e17c57aa1319aac87e726eaf7e0818d3917df8fbe1f695ec67f5e4180cae07"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/gt/overlay_export.h"
+          },
+          "hashes": {
+            "sha-256": "dbf4c6a2c7bcf2bc48e855870db31421496851cc504134dd66727d77e7397162"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alog.h"
+          },
+          "hashes": {
+            "sha-256": "cb9ddc1071a371951261993c94bbe8efd7344d3eb8e9e6827e08fc2a8440b91d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/acplatform.h"
+          },
+          "hashes": {
+            "sha-256": "1e947709fbd4c3c429ddef3b655539e4fcda8f663986e6ddb9a96bd543682159"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        }
+      ]
+    }
+  ]
+}

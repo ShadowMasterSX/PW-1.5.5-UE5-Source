@@ -1,0 +1,2032 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_21\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_21"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_12\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_12"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_11\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_11"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_33\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_33"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_13\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_13"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_23\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_23"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_32\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_32"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_31\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_31"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_22\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_22"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_21\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_21"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_12\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_12"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_11\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_11"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_33\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_33"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_13\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_13"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_23\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_23"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_32\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_32"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_31\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_31"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_22\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX3::{ctor}",
+                  "decoratedName": "??0A3DMATRIX3@@QAE@W4CONSTRUCT@0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX3::<unnamed-tag>::<unnamed-tag>::_22"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_31\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_31"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_12\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_12"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_23\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_23"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_13\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_13"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_14\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_14"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_32\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_32"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_42\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_42"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_21\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_21"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_22\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_22"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_43\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_43"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_34\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_34"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_33\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_33"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_41\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_41"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_11\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_11"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_24\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_24"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_44\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+                },
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DMATRIX4::{ctor}",
+                  "decoratedName": "??0A3DMATRIX4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DMATRIX4::<unnamed-tag>::<unnamed-tag>::_44"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::w\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DQuaternion.h"
+                },
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DQUATERNION::{ctor}",
+                  "decoratedName": "??0A3DQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DQuaternion.h"
+                },
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DQUATERNION::{ctor}",
+                  "decoratedName": "??0A3DQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DQuaternion.h"
+                },
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DQUATERNION::{ctor}",
+                  "decoratedName": "??0A3DQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DQUATERNION::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DQuaternion.h"
+                },
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DQUATERNION::{ctor}",
+                  "decoratedName": "??0A3DQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DQUATERNION::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DQuaternion.h"
+                },
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DQUATERNION::{ctor}",
+                  "decoratedName": "??0A3DQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DQUATERNION::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DCOLORVALUE::a\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DCOLORVALUE::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DCOLORVALUE::r\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DCOLORVALUE::r"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DCOLORVALUE::g\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DCOLORVALUE::g"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DCOLORVALUE::b\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DCOLORVALUE::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DHSVCOLORVALUE::s\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DHSVCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DHSVCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DHSVCOLORVALUE::s"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DHSVCOLORVALUE::h\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DHSVCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DHSVCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DHSVCOLORVALUE::h"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DHSVCOLORVALUE::a\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DHSVCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DHSVCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DHSVCOLORVALUE::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DHSVCOLORVALUE::v\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DHSVCOLORVALUE::{ctor}",
+                  "decoratedName": "??0A3DHSVCOLORVALUE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DHSVCOLORVALUE::v"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DDEVFMT::fmtDepth\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+                },
+                "region": {
+                  "startLine": 159,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DDEVFMT::{ctor}",
+                  "decoratedName": "??0A3DDEVFMT@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DDEVFMT::fmtDepth"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "4d126e69a15132d4ca9c474f214dd977cdd964a147c005cd1ed59f74cf9b0636"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "ab7d0697191fe3b3a614d4829bde5074569b65bf44f2ec2864e0525b9965823c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DMatrix.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "0040a54c3ecedd078718421b1d9a83ef6f27d5bae30259275e004a87edb3c082"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DQuaternion.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "45ff01ed54cf3ecb7c375bb640f89aa65ce2ad425fbc2a19253de4934ed51b8b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DTypes.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "0946fff9486c1e4c88a9676b57d1293a7cd095f7941da58db06fa272ca92f45a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/autopfimp/automoveimp/pfconstant.h"
+          },
+          "hashes": {
+            "sha-256": "2e3b3ab147d1748e5cbe1213f35fb74d7ca73e0a3505a7b27b72fc2b02a4c810"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/arect.h"
+          },
+          "hashes": {
+            "sha-256": "ac982401803e47ed9a6c58758f776a8ce9e9eccbcb6b0c5bd64caeba140339b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/apoint.h"
+          },
+          "hashes": {
+            "sha-256": "ba391c07294003a07ba15c3ccb6c9352cd3bbb158a1d02959e2ac65f532abf38"
+          }
+        }
+      ]
+    }
+  ]
+}

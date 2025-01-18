@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>ECScriptUnitExecutor.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "CECScriptUnitExecutor::m_pScript" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>CECScriptUnitExecutor::{ctor}</FUNCTION>
+    <DECORATED>??0CECScriptUnitExecutor@@QAE@PAVCECScriptContext@@@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CECScriptUnitExecutor::m_pScript</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

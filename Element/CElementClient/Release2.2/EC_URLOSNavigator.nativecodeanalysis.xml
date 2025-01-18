@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\Network\IOLib\</FILEPATH>
+      <FILENAME>gnoctets.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6308</DEFECTCODE>
+    <DESCRIPTION>"realloc" gibt möglicherweise einen NULL-Zeiger zurück: Das Zuweisen eines NULL-Zeigers zu "base", das als Argument an "realloc" übergeben wird, führt zu einem Verlust im ursprünglichen Speicherblock</DESCRIPTION>
+    <FUNCTION>GNET::Octets::reserve</FUNCTION>
+    <DECORATED>?reserve@Octets@GNET@@QAEAAV12@I@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

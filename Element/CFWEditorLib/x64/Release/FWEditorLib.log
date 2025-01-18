@@ -1,0 +1,464 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
+  CharContour.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „CharContour.cpp“ wird kompiliert)
+  
+  CharCurve.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „CharCurve.cpp“ wird kompiliert)
+  
+  CharOutline.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „CharOutline.cpp“ wird kompiliert)
+  
+  CharVerticesBuffer.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „CharVerticesBuffer.cpp“ wird kompiliert)
+  
+  CodeTemplate.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „CodeTemplate.cpp“ wird kompiliert)
+  
+  FWAlgorithm.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWArray.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AArray.h": No such file or directory
+  (Quelldatei „FWAlgorithm.cpp“ wird kompiliert)
+  
+  FWArchive.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWArchive.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AString.h": No such file or directory
+  (Quelldatei „FWArchive.cpp“ wird kompiliert)
+  
+  FWArt.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArt.cpp“ wird kompiliert)
+  
+  FWArtArc.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArtArc.cpp“ wird kompiliert)
+  
+  FWArtCreator.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArtCreator.cpp“ wird kompiliert)
+  
+  FWArtDoubleArc.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArtDoubleArc.cpp“ wird kompiliert)
+  
+  FWArtNoChange.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArtNoChange.cpp“ wird kompiliert)
+  
+  FWArtStepScale.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArtStepScale.cpp“ wird kompiliert)
+  
+  FWArtTilt.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArtTilt.cpp“ wird kompiliert)
+  
+  FWArtWave.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWArtWave.cpp“ wird kompiliert)
+  
+  FWAssemblyCache.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWAssemblyCache.cpp“ wird kompiliert)
+  
+  FWAssemblyProfile.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWAssemblyProfile.cpp“ wird kompiliert)
+  
+  FWAssemblySet.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWAssemblySet.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWAssemblySet.cpp“ wird kompiliert)
+  
+  FWAUIManager.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWAUIManager.cpp“ wird kompiliert)
+  
+  FWCommand.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWCommand.cpp“ wird kompiliert)
+  
+  Code wird generiert...
+  Kompilieren...
+  FWCommandCombine.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWCommandCombine.cpp“ wird kompiliert)
+  
+  FWCommandCreate.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWObPtrList.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWCommandCreate.cpp“ wird kompiliert)
+  
+  FWCommandDelete.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWObPtrList.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWCommandDelete.cpp“ wird kompiliert)
+  
+  FWCommandDuplicateHandle.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWCommandDuplicateHandle.cpp“ wird kompiliert)
+  
+  FWCommandList.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWCommandList.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWCommandList.cpp“ wird kompiliert)
+  
+  FWCommandMove.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWCommandMove.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AArray.h": No such file or directory
+  (Quelldatei „FWCommandMove.cpp“ wird kompiliert)
+  
+  FWCommandMoveHandle.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWCommandMoveHandle.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWCommandMoveHandle.cpp“ wird kompiliert)
+  
+  FWCommandRemoveHandle.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWCommandRemoveHandle.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AArray.h": No such file or directory
+  (Quelldatei „FWCommandRemoveHandle.cpp“ wird kompiliert)
+  
+  FWCommandResize.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWCommandResize.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "ARect.h": No such file or directory
+  (Quelldatei „FWCommandResize.cpp“ wird kompiliert)
+  
+  FWCommandRotate.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWCommandRotate.cpp“ wird kompiliert)
+  
+  FWCommandSetBezierMode.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWCommandSetBezierMode.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AArray.h": No such file or directory
+  (Quelldatei „FWCommandSetBezierMode.cpp“ wird kompiliert)
+  
+  FWCommandSetGlyphProp.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWCommandSetGlyphProp.cpp“ wird kompiliert)
+  
+  FWCommandUnCombine.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWCommandUnCombine.cpp“ wird kompiliert)
+  
+  FWDialogBase.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogBase.cpp“ wird kompiliert)
+  
+  FWDialogBezierMenu.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogBezierMenu.cpp“ wird kompiliert)
+  
+  FWDialogBoard.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogBoard.cpp“ wird kompiliert)
+  
+  FWDialogCustom.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogCustom.cpp“ wird kompiliert)
+  
+  FWDialogEdit.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogEdit.cpp“ wird kompiliert)
+  
+  FWDialogGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogGraph.cpp“ wird kompiliert)
+  
+  FWDialogGraphMenu.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogGraphMenu.cpp“ wird kompiliert)
+  
+  Code wird generiert...
+  Kompilieren...
+  FWDialogLanch.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogLanch.cpp“ wird kompiliert)
+  
+  FWDialogMain.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogMain.cpp“ wird kompiliert)
+  
+  FWDialogParam.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogParam.cpp“ wird kompiliert)
+  
+  FWDialogPlay.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogPlay.cpp“ wird kompiliert)
+  
+  FWDialogPolygonMenu.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogPolygonMenu.cpp“ wird kompiliert)
+  
+  FWDialogPropBase.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogPropBase.cpp“ wird kompiliert)
+  
+  FWDialogScale.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogScale.cpp“ wird kompiliert)
+  
+  FWDialogSimple.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogSimple.cpp“ wird kompiliert)
+  
+  FWDialogText.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWDialogText.cpp(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AString.h": No such file or directory
+  FWDialogTool.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDialogTool.cpp“ wird kompiliert)
+  
+  FWDoc.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWDoc.cpp“ wird kompiliert)
+  
+  FWFirework.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFirework.cpp“ wird kompiliert)
+  
+  FWFireworkCustom.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFireworkCustom.cpp“ wird kompiliert)
+  
+  FWFireworkElement.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFireworkElement.cpp“ wird kompiliert)
+  
+  FWFireworkGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFireworkGraph.cpp“ wird kompiliert)
+  
+  FWFireworkLanch.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFireworkLanch.cpp“ wird kompiliert)
+  
+  FWFireworkLeaf.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFireworkLeaf.cpp“ wird kompiliert)
+  
+  FWFireworkSimple.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFireworkSimple.cpp“ wird kompiliert)
+  
+  FWFlatCollector.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\fwflatcollector.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "a3dflatcollector.h": No such file or directory
+  (Quelldatei „FWFlatCollector.cpp“ wird kompiliert)
+  
+  FWFontEnum.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWFontEnum.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWFontEnum.cpp“ wird kompiliert)
+  
+  Code wird generiert...
+  Kompilieren...
+  FWFormula.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWFormula.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AStack.h": No such file or directory
+  (Quelldatei „FWFormula.cpp“ wird kompiliert)
+  
+  FWFormulaElement.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWFormulaElement.cpp“ wird kompiliert)
+  
+  FWFormulaList.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWFormulaList.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWFormulaList.cpp“ wird kompiliert)
+  
+  FWGfxWithModifier.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGfxWithModifier.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DGFXEx.h": No such file or directory
+  (Quelldatei „FWGfxWithModifier.cpp“ wird kompiliert)
+  
+  FWGlyph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyph.cpp“ wird kompiliert)
+  
+  FWGlyphBezier.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphBezier.cpp“ wird kompiliert)
+  
+  FWGlyphComposite.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphComposite.cpp“ wird kompiliert)
+  
+  FWGlyphEllipse.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphEllipse.cpp“ wird kompiliert)
+  
+  FWGlyphFirework.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphFirework.cpp“ wird kompiliert)
+  
+  FWGlyphGraphBase.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphGraphBase.cpp“ wird kompiliert)
+  
+  FWGlyphList.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWTextMesh.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DVector.h": No such file or directory
+  (Quelldatei „FWGlyphList.cpp“ wird kompiliert)
+  
+  FWGlyphPolygon.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphPolygon.cpp“ wird kompiliert)
+  
+  FWGlyphRectangle.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphRectangle.cpp“ wird kompiliert)
+  
+  FWGlyphRectBase.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphRectBase.cpp“ wird kompiliert)
+  
+  FWGlyphText.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyph.h(7,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „FWGlyphText.cpp“ wird kompiliert)
+  
+  FWInnerProperty.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWInnerProperty.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DGFXEditorInterface.h": No such file or directory
+  (Quelldatei „FWInnerProperty.cpp“ wird kompiliert)
+  
+  FWLog.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWLog.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "ALog.h": No such file or directory
+  (Quelldatei „FWLog.cpp“ wird kompiliert)
+  
+  FWManager.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWManager.cpp“ wird kompiliert)
+  
+  FWModifier.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWModifier.cpp“ wird kompiliert)
+  
+  FWModifierCreator.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWModifierCreator.cpp“ wird kompiliert)
+  
+  Code wird generiert...
+  Kompilieren...
+  FWModifierParabola.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWModifierParabola.cpp“ wird kompiliert)
+  
+  FWModifierRing.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWModifierRing.cpp“ wird kompiliert)
+  
+  FWObject.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\Global.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "ALog.h": No such file or directory
+  (Quelldatei „FWObject.cpp“ wird kompiliert)
+  
+  FWOperand.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWOperand.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DGFXEditorInterface.h": No such file or directory
+  (Quelldatei „FWOperand.cpp“ wird kompiliert)
+  
+  FWOperator.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWOperator.cpp“ wird kompiliert)
+  
+  FWOutterProperty.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWOutterProperty.cpp“ wird kompiliert)
+  
+  FWParam.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWParam.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DGFXEditorInterface.h": No such file or directory
+  (Quelldatei „FWParam.cpp“ wird kompiliert)
+  
+  FWParticalQuota.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWParticalQuota.cpp“ wird kompiliert)
+  
+  FWParticalQuotaList.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWParticalQuotaList.cpp“ wird kompiliert)
+  
+  FWPlayer.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWPlayer.cpp“ wird kompiliert)
+  
+  FWRuntimeClass.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWArchive.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AString.h": No such file or directory
+  (Quelldatei „FWRuntimeClass.cpp“ wird kompiliert)
+  
+  FWSharedFile.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWSharedFile.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AFile.h": No such file or directory
+  (Quelldatei „FWSharedFile.cpp“ wird kompiliert)
+  
+  FWState.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWState.cpp“ wird kompiliert)
+  
+  FWStateCreateBezier.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateCreateBezier.cpp“ wird kompiliert)
+  
+  FWStateCreateFirework.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateCreateFirework.cpp“ wird kompiliert)
+  
+  FWStateCreatePolygon.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateCreatePolygon.cpp“ wird kompiliert)
+  
+  FWStateCreateRect.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateCreateRect.cpp“ wird kompiliert)
+  
+  FWStateCreateText.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateCreateText.cpp“ wird kompiliert)
+  
+  FWStateMove.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateMove.cpp“ wird kompiliert)
+  
+  FWStateMoveHandle.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateMoveHandle.cpp“ wird kompiliert)
+  
+  Code wird generiert...
+  Kompilieren...
+  FWStateMoveWindow.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateMoveWindow.cpp“ wird kompiliert)
+  
+  FWStateNetSelect.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWStateNetSelect.cpp“ wird kompiliert)
+  
+  FWStateResize.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateResize.cpp“ wird kompiliert)
+  
+  FWStateRotate.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateRotate.cpp“ wird kompiliert)
+  
+  FWStateSelect.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWState.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "APoint.h": No such file or directory
+  (Quelldatei „FWStateSelect.cpp“ wird kompiliert)
+  
+  FWStream.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWStream.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DStream.h": No such file or directory
+  (Quelldatei „FWStream.cpp“ wird kompiliert)
+  
+  FWTemplate.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWTemplate.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMatrix.h": No such file or directory
+  (Quelldatei „FWTemplate.cpp“ wird kompiliert)
+  
+  FWTextMesh.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWTextMesh.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DVector.h": No such file or directory
+  (Quelldatei „FWTextMesh.cpp“ wird kompiliert)
+  
+  FWView.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\CodeTemplate.h(10,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AAssist.h": No such file or directory
+  (Quelldatei „FWView.cpp“ wird kompiliert)
+  
+  GLUContour.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\GLUContour.cpp(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "A3DMacros.h": No such file or directory
+  GLUPolygon.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\GLUPolygon.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „GLUPolygon.cpp“ wird kompiliert)
+  
+  GLUTess.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\GLUPolygon.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AList2.h": No such file or directory
+  (Quelldatei „GLUTess.cpp“ wird kompiliert)
+  
+  Mesh.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\Triangle.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AArray.h": No such file or directory
+  (Quelldatei „Mesh.cpp“ wird kompiliert)
+  
+  Triangle.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\Triangle.h(4,10): error C1083: Datei (Include) kann nicht geöffnet werden: "AArray.h": No such file or directory
+  (Quelldatei „Triangle.cpp“ wird kompiliert)
+  
+  Code wird generiert...

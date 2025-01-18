@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_WinAPI.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6387</DEFECTCODE>
+    <DESCRIPTION>"GetModuleHandleA("kernel32.dll")" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "GetProcAddress". </DESCRIPTION>
+    <FUNCTION>InitializeWindowsAPI</FUNCTION>
+    <DECORATED>?InitializeWindowsAPI@@YAXXZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+        <FILENAME>EC_WinAPI.cpp</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>22</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"&lt;Symbol&gt;" empfängt den Rückgabewert von "GetModuleHandleA" (in c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\libloaderapi.h:235 deklariert)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+        <FILENAME>EC_WinAPI.cpp</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>22</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"GetModuleHandleA("kernel32.dll")" sollte nicht NULL sein, da dies nicht der SAL-Anmerkung zu "GetProcAddress" entspricht.</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_WinAPI.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6387</DEFECTCODE>
+    <DESCRIPTION>"GetModuleHandleA("shell32.dll")" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "GetProcAddress". </DESCRIPTION>
+    <FUNCTION>InitializeWindowsAPI</FUNCTION>
+    <DECORATED>?InitializeWindowsAPI@@YAXXZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+        <FILENAME>EC_WinAPI.cpp</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+        <FILENAME>EC_WinAPI.cpp</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+        <FILENAME>EC_WinAPI.cpp</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"&lt;Symbol&gt;" empfängt den Rückgabewert von "GetModuleHandleA" (in c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\libloaderapi.h:235 deklariert)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+        <FILENAME>EC_WinAPI.cpp</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"GetModuleHandleA("shell32.dll")" sollte nicht NULL sein, da dies nicht der SAL-Anmerkung zu "GetProcAddress" entspricht.</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

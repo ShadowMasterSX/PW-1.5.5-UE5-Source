@@ -1,0 +1,174 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Rückgabewert wird ignoriert: \"swscanf\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptman.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+                },
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 2,
+                  "endLine": 259,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AWString::ToFloat",
+                  "decoratedName": "?ToFloat@AWString@@QBEMXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptman.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "62f6f8d66c6771f96538adf70de7d6f248217b62db072bafdbe9993a9c15fc55"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f8ef1b3c2166a11303845514de1b5c56609a975662e5b3e9a790e3abdd380ea4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/codetemplate.h"
+          },
+          "hashes": {
+            "sha-256": "cc41a1baeea95c15790edf562cac42cb57e27fd59c85b74c7ecdf67d415885a0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptman.h"
+          },
+          "hashes": {
+            "sha-256": "5a3ed1301e7efadbd76356096268c65012d9e2973ea6d0e86ab76f5163ff8eeb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptcontext.h"
+          },
+          "hashes": {
+            "sha-256": "f2d7f72f1187c03f37e427738f4d37cde79d28a8456749c84b39fc546fd516e5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptoption.h"
+          },
+          "hashes": {
+            "sha-256": "feada350cfb91444c5fc03190ed51c2824e90521af0ba505fc00bae155a831b1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashmap.h"
+          },
+          "hashes": {
+            "sha-256": "20eca44a6b08876747e4d684dec2ab8dc8fa738b477417957594c64934e88ca3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashtab.h"
+          },
+          "hashes": {
+            "sha-256": "dfcfe94cf0ce7da9e18683c3d96efd89fa079984a437b038c6a94613ef16c568"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/vector.h"
+          },
+          "hashes": {
+            "sha-256": "68c627400676365c3d2e1fb61cfcba71674b563163c6d84e7c1a39380b1316c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptcheckstate.h"
+          },
+          "hashes": {
+            "sha-256": "ba05a994b0648629aedd9d05b7de6ab11e3eb0c497f9a88249e7c500cbcc66d1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astring.h"
+          },
+          "hashes": {
+            "sha-256": "e5b80e295e2c1b7fa25acb4691465e465b4722e6b018d8535aad888c3d74b737"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptcontroller.h"
+          },
+          "hashes": {
+            "sha-256": "fabc2701ad5b85bd58bdfafd91b8a2011f5c04b25103d9754646575a5dc4e00a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptui.h"
+          },
+          "hashes": {
+            "sha-256": "cdf917bfe9f0fc84d16b1e611e85f9f07767ad8b7e5e97ca759a43492410d0e2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ecscriptglobalresource.h"
+          },
+          "hashes": {
+            "sha-256": "20a9f1657d1ad883e2eb988bb8f8f848f07c7405000d98c04ca6dce89a6b256e"
+          }
+        }
+      ]
+    }
+  ]
+}

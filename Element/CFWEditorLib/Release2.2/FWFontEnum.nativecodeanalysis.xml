@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AWString.h</FILENAME>
+      <LINE>259</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "swscanf".</DESCRIPTION>
+    <FUNCTION>AWString::ToFloat</FUNCTION>
+    <DECORATED>?ToFloat@AWString@@QBEMXZ</DECORATED>
+    <FUNCLINE>253</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AList2.h</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "AList2&lt;AWString,AWString &amp;&gt;::s_NODE::pPrev" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>AList2&lt;AWString,AWString &amp;&gt;::s_NODE::{ctor}</FUNCTION>
+    <DECORATED>??0s_NODE@?$AList2@VAWString@@AAV1@@@QAE@XZ</DECORATED>
+    <FUNCLINE>61</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>AList2&lt;AWString,AWString &amp;&gt;::s_NODE::pPrev</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AList2.h</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "AList2&lt;AWString,AWString &amp;&gt;::s_NODE::pNext" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>AList2&lt;AWString,AWString &amp;&gt;::s_NODE::{ctor}</FUNCTION>
+    <DECORATED>??0s_NODE@?$AList2@VAWString@@AAV1@@@QAE@XZ</DECORATED>
+    <FUNCLINE>61</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>AList2&lt;AWString,AWString &amp;&gt;::s_NODE::pNext</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

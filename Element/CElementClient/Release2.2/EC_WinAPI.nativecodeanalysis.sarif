@@ -1,0 +1,233 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6387",
+          "message": {
+            "text": "\"GetModuleHandleA(\"kernel32.dll\")\" könnte \"0\" sein:  dies entspricht nicht der Spezifikation für Funktion \"GetProcAddress\". "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_winapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 2,
+                  "endLine": 12,
+                  "endColumn": 95
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "InitializeWindowsAPI",
+                  "decoratedName": "?InitializeWindowsAPI@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                          },
+                          "region": {
+                            "startLine": 12,
+                            "startColumn": 23
+                          }
+                        },
+                        "message": {
+                          "text": "\"<Symbol>\" empfängt den Rückgabewert von \"GetModuleHandleA\" (in c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\um\\libloaderapi.h:235 deklariert)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                          },
+                          "region": {
+                            "startLine": 12,
+                            "startColumn": 23
+                          }
+                        },
+                        "message": {
+                          "text": "\"GetModuleHandleA(\"kernel32.dll\")\" sollte nicht NULL sein, da dies nicht der SAL-Anmerkung zu \"GetProcAddress\" entspricht."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6387",
+          "message": {
+            "text": "\"GetModuleHandleA(\"shell32.dll\")\" könnte \"0\" sein:  dies entspricht nicht der Spezifikation für Funktion \"GetProcAddress\". "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_winapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 2,
+                  "endLine": 14,
+                  "endColumn": 72
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "InitializeWindowsAPI",
+                  "decoratedName": "?InitializeWindowsAPI@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                          },
+                          "region": {
+                            "startLine": 12,
+                            "startColumn": 23
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                          },
+                          "region": {
+                            "startLine": 13,
+                            "startColumn": 23
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                          },
+                          "region": {
+                            "startLine": 14,
+                            "startColumn": 12
+                          }
+                        },
+                        "message": {
+                          "text": "\"<Symbol>\" empfängt den Rückgabewert von \"GetModuleHandleA\" (in c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\um\\libloaderapi.h:235 deklariert)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_WinAPI.cpp"
+                          },
+                          "region": {
+                            "startLine": 14,
+                            "startColumn": 12
+                          }
+                        },
+                        "message": {
+                          "text": "\"GetModuleHandleA(\"shell32.dll\")\" sollte nicht NULL sein, da dies nicht der SAL-Anmerkung zu \"GetProcAddress\" entspricht."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_winapi.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "9ea94f76bbf33d8a58e8216f8eebd5977b286f323bc5ba1f5896f20e357d265f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_winapi.h"
+          },
+          "hashes": {
+            "sha-256": "b39b9c27ae9adf9a027dec121264764109f39d86145622f93a1532b073038ab7"
+          }
+        }
+      ]
+    }
+  ]
+}

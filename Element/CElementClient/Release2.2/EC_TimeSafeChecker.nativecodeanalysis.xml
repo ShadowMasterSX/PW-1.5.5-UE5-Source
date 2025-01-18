@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_TimeSafeChecker.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "GetTickCount64" anstelle von "GetTickCount". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem</DESCRIPTION>
+    <FUNCTION>CECTimeSafeChecker::Reset</FUNCTION>
+    <DECORATED>?Reset@CECTimeSafeChecker@@QAEXK@Z</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_TimeSafeChecker.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "GetTickCount64" anstelle von "GetTickCount". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem</DESCRIPTION>
+    <FUNCTION>CECTimeSafeChecker::Reset</FUNCTION>
+    <DECORATED>?Reset@CECTimeSafeChecker@@QAEXXZ</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_TimeSafeChecker.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "GetTickCount64" anstelle von "GetTickCount". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem</DESCRIPTION>
+    <FUNCTION>CECTimeSafeChecker::IsTimeArrived</FUNCTION>
+    <DECORATED>?IsTimeArrived@CECTimeSafeChecker@@QBE_NXZ</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_TimeSafeChecker.cpp</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "GetTickCount64" anstelle von "GetTickCount". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem</DESCRIPTION>
+    <FUNCTION>CECTimeSafeChecker::ElapsedTimeFor</FUNCTION>
+    <DECORATED>?ElapsedTimeFor@CECTimeSafeChecker@@SAKK@Z</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_TimeSafeChecker.cpp</FILENAME>
+      <LINE>58</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "GetTickCount64" anstelle von "GetTickCount". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem</DESCRIPTION>
+    <FUNCTION>CECTimeSafeChecker::ElapsedTime</FUNCTION>
+    <DECORATED>?ElapsedTime@CECTimeSafeChecker@@QBEKXZ</DECORATED>
+    <FUNCLINE>56</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>EC_TimeSafeChecker.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "GetTickCount64" anstelle von "GetTickCount". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem</DESCRIPTION>
+    <FUNCTION>CECTimeSafeChecker::LeftTime</FUNCTION>
+    <DECORATED>?LeftTime@CECTimeSafeChecker@@QBEKXZ</DECORATED>
+    <FUNCLINE>80</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,860 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Rückgabewert wird ignoriert: \"swscanf\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+                },
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 2,
+                  "endLine": 259,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AWString::ToFloat",
+                  "decoratedName": "?ToFloat@AWString@@QBEMXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28251",
+          "message": {
+            "text": "Inkonsistente Anmerkung für \"new\": diese Instanz verfügt über keine Anmerkungen. Siehe c:\\users\\dominik\\documents\\github\\pw-cliente-source-153\\element\\celementclient\\predefined c++ types (compiler internal)(43). Die erste vom Benutzer bereitgestellte Anmerkung zu dieser integrierten Funktion befindet sich in Zeile c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.42.34433\\include\\vcruntime_new.h(44). "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AMemory.h"
+                },
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "new",
+                  "decoratedName": "??2@YAPAXI@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28251",
+          "message": {
+            "text": "Inkonsistente Anmerkung für \"new[]\": diese Instanz verfügt über keine Anmerkungen. Siehe c:\\users\\dominik\\documents\\github\\pw-cliente-source-153\\element\\celementclient\\predefined c++ types (compiler internal)(68). Die erste vom Benutzer bereitgestellte Anmerkung zu dieser integrierten Funktion befindet sich in Zeile c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.42.34433\\include\\vcruntime_new.h(55). "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AMemory.h"
+                },
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "new[]",
+                  "decoratedName": "??_U@YAPAXI@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CLuaStateMan::m_ConfigState\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/common/output/Include/luaWrapper/LuaState.h"
+                },
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CLuaStateMan::{ctor}",
+                  "decoratedName": "??0CLuaStateMan@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CLuaStateMan::m_ConfigState"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CLuaStateMan::m_AIState\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/common/output/Include/luaWrapper/LuaState.h"
+                },
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CLuaStateMan::{ctor}",
+                  "decoratedName": "??0CLuaStateMan@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CLuaStateMan::m_AIState"
+          }
+        },
+        {
+          "ruleId": "C6011",
+          "message": {
+            "text": "Dereferenzierender NULL-Zeiger \"_finish\". "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                },
+                "region": {
+                  "startLine": 175,
+                  "startColumn": 17,
+                  "endLine": 175,
+                  "endColumn": 42
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "abase::vector<CScriptValue,abase::default_alloc>::{ctor}",
+                  "decoratedName": "??0?$vector@VCScriptValue@@Vdefault_alloc@abase@@@abase@@QAE@ABV01@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 166,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 167,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 168,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 171,
+                            "startColumn": 9
+                          }
+                        },
+                        "message": {
+                          "text": "\"_finish\" kann NULL sein."
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 172,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 173,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 174,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 175,
+                            "startColumn": 9
+                          }
+                        },
+                        "message": {
+                          "text": "In diese Schleife eintreten (Annahme: \"n--\")"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+                          },
+                          "region": {
+                            "startLine": 175,
+                            "startColumn": 38
+                          }
+                        },
+                        "message": {
+                          "text": "\"_finish\" wird dereferenziert, kann jedoch weiterhin NULL sein."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerapi.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "adbca8e5eb46a074bea11adfa7b0ceffc5e9661fc50e400336b051080cf6e6c6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "ab7d0697191fe3b3a614d4829bde5074569b65bf44f2ec2864e0525b9965823c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f8ef1b3c2166a11303845514de1b5c56609a975662e5b3e9a790e3abdd380ea4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AMemory.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "25878670106572bc734d5faff16566fd68d61b1ebcf2d4322c981d03dfc58df4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/common/output/Include/luaWrapper/LuaState.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "38e0b35bf3800dc56b49ee9bfe72724fb76b02c8e4ac84de80f7bd38d2394745"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/vector.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "68c627400676365c3d2e1fb61cfcba71674b563163c6d84e7c1a39380b1316c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alog.h"
+          },
+          "hashes": {
+            "sha-256": "cb9ddc1071a371951261993c94bbe8efd7344d3eb8e9e6827e08fc2a8440b91d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/acplatform.h"
+          },
+          "hashes": {
+            "sha-256": "1e947709fbd4c3c429ddef3b655539e4fcda8f663986e6ddb9a96bd543682159"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_playerwrapper.h"
+          },
+          "hashes": {
+            "sha-256": "094dd4a91f849625d2f04ca638bbeaa05f2f6a7258030634e22d84c08366b889"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashmap.h"
+          },
+          "hashes": {
+            "sha-256": "20eca44a6b08876747e4d684dec2ab8dc8fa738b477417957594c64934e88ca3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashtab.h"
+          },
+          "hashes": {
+            "sha-256": "dfcfe94cf0ce7da9e18683c3d96efd89fa079984a437b038c6a94613ef16c568"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_autopolicy.h"
+          },
+          "hashes": {
+            "sha-256": "88bad56cab59e44ded2973dedbfba3254dc8ab975afaffcc1c93a44d51815f60"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aassist.h"
+          },
+          "hashes": {
+            "sha-256": "ea630dfb9c24713ece52fdce0989eba376d0da3e8fd0c5e12b3799848cc04b12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astring.h"
+          },
+          "hashes": {
+            "sha-256": "e5b80e295e2c1b7fa25acb4691465e465b4722e6b018d8535aad888c3d74b737"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_counter.h"
+          },
+          "hashes": {
+            "sha-256": "5e5eee1da8fd89eb33fb2dd2881597359b1ba15bc31ac80ef9a87cd3c04a245e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/common/output/include/luawrapper/scriptvalue.h"
+          },
+          "hashes": {
+            "sha-256": "c2276c4589849ef18ff4efe351a89f43a42b22fc586065bad7f906d15d2b88a5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/3rdsdk/include/lua.hpp"
+          },
+          "hashes": {
+            "sha-256": "a7a47ce4cd19f703b8025696f0631c09a664d54cfa831be4538d10441aebb48d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/3rdsdk/include/lua.h"
+          },
+          "hashes": {
+            "sha-256": "9a8ee0cb834877ad723a6bd29f92385376dea5f012d32f9e181388c33820c5a3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/3rdsdk/include/luaconf.h"
+          },
+          "hashes": {
+            "sha-256": "9089edc87323fe43dbfbd85a3dd8b89a206f2d78181ad9878a3aef05c0e70354"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/3rdsdk/include/lualib.h"
+          },
+          "hashes": {
+            "sha-256": "fdc28369da6fffb836b744b8a6d4b78d386e2b7348247f5cf3246b421d9f0439"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/3rdsdk/include/lauxlib.h"
+          },
+          "hashes": {
+            "sha-256": "82d7bcc075308fd1dcee8a8766ab69cda6945624fc4899021e5e971717df1b59"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aarray.h"
+          },
+          "hashes": {
+            "sha-256": "72edbc9f5bd14ab32eb9d0b89d91ccc009ca70c5f35c8be94bd298ba7442b272"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/common/output/include/luawrapper/luaapi.h"
+          },
+          "hashes": {
+            "sha-256": "67ced8d34ae0957028ea0878ef16a2e386d61399ec4f8271d9b3a5ab19f524aa"
+          }
+        }
+      ]
+    }
+  ]
+}

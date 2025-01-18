@@ -1,0 +1,107 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"IsWindows*\" anstelle von \"GetVersionExW\". Ursache: Deprecated. Use VerifyVersionInfo* or IsWindows* macros from VersionHelpers."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/pwacp.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/defence/pwacp.cpp"
+                },
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 28,
+                  "endLine": 49,
+                  "endColumn": 58
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PWACP::IsWinXP",
+                  "decoratedName": "?IsWinXP@PWACP@@YA_NXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"IsWindows*\" anstelle von \"GetVersionExW\". Ursache: Deprecated. Use VerifyVersionInfo* or IsWindows* macros from VersionHelpers."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/pwacp.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/defence/pwacp.cpp"
+                },
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 8,
+                  "endLine": 52,
+                  "endColumn": 38
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PWACP::IsWinXP",
+                  "decoratedName": "?IsWinXP@PWACP@@YA_NXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/pwacp.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "3331b809fda671e0343d5110640fbd34957ae39ec8ad2f7f0617afa1aae7f52d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/pwacp.h"
+          },
+          "hashes": {
+            "sha-256": "7ef6222b05ad0e99804a62231d3b909c65cfe063e3e6c48f0e4e557edac145bf"
+          }
+        }
+      ]
+    }
+  ]
+}

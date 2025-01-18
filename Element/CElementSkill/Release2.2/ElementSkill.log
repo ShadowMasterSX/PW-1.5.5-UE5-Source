@@ -1,0 +1,26 @@
+﻿  ElementSkill.cpp
+  gnstring.cpp
+  skill.cpp
+  skillwrapper.cpp
+  StdAfx.cpp
+  stubs1.cpp
+  stubs10.cpp
+  stubs11.cpp
+  stubs12.cpp
+  stubs2.cpp
+  stubs3.cpp
+  stubs4.cpp
+  stubs5.cpp
+  stubs6.cpp
+  stubs7.cpp
+  stubs8.cpp
+  stubs9.cpp
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\Release2.2\ElementSkill.dll) entspricht nicht dem OutputFile-Eigenschaftswert (D:\Perfect World\Perfect World 1.5.2 BR\element\ElementSkill.dll) von Linker. Das Projekt wird daher möglicherweise nicht ordnungsgemäß erstellt. Damit dieses Problem behoben werden kann, müssen die Eigenschaftswerte für $(OutDir), $(TargetName) und $(TargetExt) dem in %(Link.OutputFile) angegebenen Wert entsprechen.
+     Bibliothek ".\Release2.2\ElementSkill.lib" und Objekt ".\Release2.2\ElementSkill.exp" werden erstellt.
+AngelicaCommon_u.lib(AMemory.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__sprintf" in Funktion ""void __cdecl a_ExportMemLog(char const *)" (?a_ExportMemLog@@YAXPBD@Z)".
+AngelicaCommon_u.lib(ALog.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__sprintf".
+AngelicaCommon_u.lib(ALog.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp___vsnprintf" in Funktion ""void __cdecl a_LogOutput(int,char const *,...)" (?a_LogOutput@@YAXHPBDZZ)".
+AngelicaCommon_u.lib(ALog.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__fprintf" in Funktion ""public: bool __thiscall ALog::Init(char const *,char const *,bool)" (?Init@ALog@@QAE_NPBD0_N@Z)".
+D:\Perfect World\Perfect World 1.5.2 BR\element\ElementSkill.dll : fatal error LNK1120: 3 nicht aufgelöste Externe

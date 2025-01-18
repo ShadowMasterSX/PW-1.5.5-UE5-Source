@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AWString.h</FILENAME>
+      <LINE>259</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "swscanf".</DESCRIPTION>
+    <FUNCTION>AWString::ToFloat</FUNCTION>
+    <DECORATED>?ToFloat@AWString@@QBEMXZ</DECORATED>
+    <FUNCLINE>253</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\afSDK\Include\</FILEPATH>
+      <FILENAME>AWScriptFile.h</FILENAME>
+      <LINE>121</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "swscanf".</DESCRIPTION>
+    <FUNCTION>AWScriptFile::GetNextTokenAsFloat</FUNCTION>
+    <DECORATED>?GetNextTokenAsFloat@AWScriptFile@@QAEM_N@Z</DECORATED>
+    <FUNCLINE>117</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>ARect.h</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "ARect&lt;float&gt;::left" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>ARect&lt;float&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$ARect@M@@QAE@XZ</DECORATED>
+    <FUNCLINE>54</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ARect&lt;float&gt;::left</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>ARect.h</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "ARect&lt;float&gt;::top" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>ARect&lt;float&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$ARect@M@@QAE@XZ</DECORATED>
+    <FUNCLINE>54</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ARect&lt;float&gt;::top</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>ARect.h</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "ARect&lt;float&gt;::right" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>ARect&lt;float&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$ARect@M@@QAE@XZ</DECORATED>
+    <FUNCLINE>54</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ARect&lt;float&gt;::right</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>ARect.h</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "ARect&lt;float&gt;::bottom" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>ARect&lt;float&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$ARect@M@@QAE@XZ</DECORATED>
+    <FUNCLINE>54</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ARect&lt;float&gt;::bottom</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

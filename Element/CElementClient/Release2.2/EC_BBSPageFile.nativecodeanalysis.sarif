@@ -1,0 +1,2335 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Rückgabewert wird ignoriert: \"swscanf\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+                },
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 2,
+                  "endLine": 259,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AWString::ToFloat",
+                  "decoratedName": "?ToFloat@AWString@@QBEMXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::bStop\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::bStop"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::hEndLabel\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::hEndLabel"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::fend\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::fend"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::ch\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::ch"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::fbuf\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::fbuf"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::TempLabel\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::TempLabel"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::iLinePos\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::iLinePos"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECBBSPageFile::iLine\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::{ctor}",
+                  "decoratedName": "??0CECBBSPageFile@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECBBSPageFile::iLine"
+          }
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Rückgabewert wird ignoriert: \"ReadFile\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 238,
+                  "startColumn": 2,
+                  "endLine": 238,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::LoadFile",
+                  "decoratedName": "?LoadFile@CECBBSPageFile@@QAEPAUHTMLLabel@@VAString@@0@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6001",
+          "message": {
+            "text": "Nicht initialisierter Speicher \"n\" wird verwendet."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::LoadFile",
+                  "decoratedName": "?LoadFile@CECBBSPageFile@@QAEPAUHTMLLabel@@VAString@@0@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 223,
+                            "startColumn": 63
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 223,
+                            "startColumn": 45
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 225,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 226,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 227,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 229,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 231,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 232,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 237,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 238,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 239,
+                            "startColumn": 13
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 240,
+                            "startColumn": 34
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 249,
+                            "startColumn": 60
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 251,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 252,
+                            "startColumn": 7
+                          }
+                        },
+                        "message": {
+                          "text": "\"n\" ist nicht initialisiert"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 253,
+                            "startColumn": 18
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"<Verzweigungsbedingung>\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 258,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 259,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 259,
+                            "startColumn": 7
+                          }
+                        },
+                        "message": {
+                          "text": "\"n\" wird verwendet, wurde jedoch möglicherweise nicht initialisiert."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"HTMLLabel::Attrib\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.h"
+                },
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "HTMLLabel::{ctor}",
+                  "decoratedName": "??0HTMLLabel@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "HTMLLabel::Attrib"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"HTMLLabel::FirstChildLabel\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.h"
+                },
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "HTMLLabel::{ctor}",
+                  "decoratedName": "??0HTMLLabel@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "HTMLLabel::FirstChildLabel"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"HTMLLabel::NextLabel\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.h"
+                },
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "HTMLLabel::{ctor}",
+                  "decoratedName": "??0HTMLLabel@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "HTMLLabel::NextLabel"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"HTMLLabel::ParentLabel\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.h"
+                },
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "HTMLLabel::{ctor}",
+                  "decoratedName": "??0HTMLLabel@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "HTMLLabel::ParentLabel"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"HTMLLabel::pos\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.h"
+                },
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "HTMLLabel::{ctor}",
+                  "decoratedName": "??0HTMLLabel@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "HTMLLabel::pos"
+          }
+        },
+        {
+          "ruleId": "C6011",
+          "message": {
+            "text": "Dereferenzierender NULL-Zeiger \"BrotherLabel\". "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 657,
+                  "startColumn": 4,
+                  "endLine": 657,
+                  "endColumn": 28
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECBBSPageFile::LoadLabel",
+                  "decoratedName": "?LoadLabel@CECBBSPageFile@@QAE_NPAUHTMLLabel@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 529,
+                            "startColumn": 5
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 531,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 532,
+                            "startColumn": 13
+                          }
+                        },
+                        "message": {
+                          "text": "\"BrotherLabel\" ist NULL"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 535,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 536,
+                            "startColumn": 15
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"TempLabel!=0\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 543,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 544,
+                            "startColumn": 17
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 545,
+                            "startColumn": 22
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 546,
+                            "startColumn": 7
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"!this->GetLabel(Label)\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 579,
+                            "startColumn": 4
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"<Verzweigungsbedingung>\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 614,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 613,
+                            "startColumn": 61
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"<Verzweigungsbedingung>\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 620,
+                            "startColumn": 25
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"Label->LabelType[](0)==47\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 651,
+                            "startColumn": 25
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 652,
+                            "startColumn": 19
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 653,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 654,
+                            "startColumn": 34
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"<Verzweigungsbedingung>\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 657,
+                            "startColumn": 27
+                          }
+                        },
+                        "message": {
+                          "text": "\"BrotherLabel\" wird dereferenziert, kann jedoch weiterhin NULL sein."
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"ImageList::m_nMax\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 992,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ImageList::{ctor}",
+                  "decoratedName": "??0ImageList@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "ImageList::m_nMax"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"ImageList::m_nTotal\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 992,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ImageList::{ctor}",
+                  "decoratedName": "??0ImageList@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "ImageList::m_nTotal"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"ImageList::m_Images\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 992,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ImageList::{ctor}",
+                  "decoratedName": "??0ImageList@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "ImageList::m_Images"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"ImageInfo::state\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.h"
+                },
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ImageInfo::{ctor}",
+                  "decoratedName": "??0ImageInfo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "ImageInfo::state"
+          }
+        },
+        {
+          "ruleId": "C6386",
+          "message": {
+            "text": "Pufferüberlauf beim Schreiben in „m_Images“."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 1036,
+                  "startColumn": 2,
+                  "endLine": 1036,
+                  "endColumn": 21
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ImageList::AddImage",
+                  "decoratedName": "?AddImage@ImageList@@QAEHVAString@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1024,
+                            "startColumn": 33
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1026,
+                            "startColumn": 22
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1027,
+                            "startColumn": 13
+                          }
+                        },
+                        "message": {
+                          "text": "In diese Verzweigung eintreten (Annahme: \"m_nTotal>=m_nMax\")"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1029,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1030,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1031,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1033,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 27
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1034,
+                            "startColumn": 3
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1036,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "Ungültiger Schreibvorgang nach \"m_Images[1]\" (der schreibbare Bereich ist 0 bis 0)"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6385",
+          "message": {
+            "text": "Ungültige Daten werden aus „m_Images“ gelesen."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                },
+                "region": {
+                  "startLine": 1037,
+                  "startColumn": 2,
+                  "endLine": 1037,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ImageList::AddImage",
+                  "decoratedName": "?AddImage@ImageList@@QAEHVAString@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1024,
+                            "startColumn": 33
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1026,
+                            "startColumn": 22
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1027,
+                            "startColumn": 13
+                          }
+                        },
+                        "message": {
+                          "text": "In diese Verzweigung eintreten (Annahme: \"m_nTotal>=m_nMax\")"
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1029,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1030,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1031,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1033,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 27
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1032,
+                            "startColumn": 16
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1034,
+                            "startColumn": 3
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1036,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.cpp"
+                          },
+                          "region": {
+                            "startLine": 1037,
+                            "startColumn": 25
+                          }
+                        },
+                        "message": {
+                          "text": "Ungültiger Lesevorgang von \"m_Images[1]\" (der lesbare Bereich ist 0 bis 0)"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbspagefile.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "164272be64b5dc8216eae8a25b9b436cc7bcdc822404d1b2d02902213e73c5db"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "ab7d0697191fe3b3a614d4829bde5074569b65bf44f2ec2864e0525b9965823c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f8ef1b3c2166a11303845514de1b5c56609a975662e5b3e9a790e3abdd380ea4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_BBSPageFile.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "833f4af94c0665b0cc541a96fba65aebebaedcbe4523e4695d51ad030dbce790"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astring.h"
+          },
+          "hashes": {
+            "sha-256": "e5b80e295e2c1b7fa25acb4691465e465b4722e6b018d8535aad888c3d74b737"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_bbsfiledownloader.h"
+          },
+          "hashes": {
+            "sha-256": "8b2176aecbcddb3da26f6f215aa03f787eee2d2299a02b51f0628f50e31bb015"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/am.h"
+          },
+          "hashes": {
+            "sha-256": "dc93e357d1126284b178ad4bda1ead112a1a9d8e203c530913bcb923b510d1fb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amconfig.h"
+          },
+          "hashes": {
+            "sha-256": "4913f830875db9719caf9a9cf380ee3e07fcd06fdf9325e7b62ea9b540c6f323"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amtypes.h"
+          },
+          "hashes": {
+            "sha-256": "372f83182e86a950614026bf673dfef51e8cda2b9ecba16063773919e7b75c5c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amplatform.h"
+          },
+          "hashes": {
+            "sha-256": "1f631085112fa634cb2e182bd8b992a6cc84043be6a13504de0f792b2d021f28"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aarray.h"
+          },
+          "hashes": {
+            "sha-256": "72edbc9f5bd14ab32eb9d0b89d91ccc009ca70c5f35c8be94bd298ba7442b272"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/amemory.h"
+          },
+          "hashes": {
+            "sha-256": "25878670106572bc734d5faff16566fd68d61b1ebcf2d4322c981d03dfc58df4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alog.h"
+          },
+          "hashes": {
+            "sha-256": "cb9ddc1071a371951261993c94bbe8efd7344d3eb8e9e6827e08fc2a8440b91d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/acplatform.h"
+          },
+          "hashes": {
+            "sha-256": "1e947709fbd4c3c429ddef3b655539e4fcda8f663986e6ddb9a96bd543682159"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amengine.h"
+          },
+          "hashes": {
+            "sha-256": "5fd979852ccbcba54a39d2d0fbce4de5b5c28d3519389e96d37d71765813054f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amsoundbuffer.h"
+          },
+          "hashes": {
+            "sha-256": "5b2539b6d9303145fd01344b875e59e0c46a878f9a839957c960c5149b4717d9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aassist.h"
+          },
+          "hashes": {
+            "sha-256": "ea630dfb9c24713ece52fdce0989eba376d0da3e8fd0c5e12b3799848cc04b12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/3rdsdk/include/amimmeffect.h"
+          },
+          "hashes": {
+            "sha-256": "883d22207bef6d09404e784392d3d0f95c98b7bb66aeaa542298348bbfa3871a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amsounddevice.h"
+          },
+          "hashes": {
+            "sha-256": "a0e1ba4c2c0d066062fbaf5e96c0e68037e09a6146ac25357104c25d14b018f1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amsoundengine.h"
+          },
+          "hashes": {
+            "sha-256": "5c3d51ba8600951ec8a766a18300e72d74fc91c9ea830b08f46536ae11be471c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amvideoengine.h"
+          },
+          "hashes": {
+            "sha-256": "f9857835d9c71967af0c8a44d84a1e5773f488a8be606a4a2f3b43d4597e57d8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/am3dsoundbuffer.h"
+          },
+          "hashes": {
+            "sha-256": "e8a740bfc1037b35d3c1d9f15af8f378b8c4d399a292dc461106f5ccee00d30f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/am3dsounddevice.h"
+          },
+          "hashes": {
+            "sha-256": "ef9789c76c338a2e9ec77db4caa4e534915f77162a075158d2b58b91b8fd7011"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amsoundbufferman.h"
+          },
+          "hashes": {
+            "sha-256": "ee166c3baccd8c6b7b1b6927180fb94593cbf9401ba4d2b51f57c96b193caa05"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alist2.h"
+          },
+          "hashes": {
+            "sha-256": "4193bee18d941f96ab99e5081c9c17fab8be9a88d6099b12837bb034d33196b7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/ammp3file.h"
+          },
+          "hashes": {
+            "sha-256": "2faa349676dbbdd61db92990a6f1546f8294d57b6dcc52c8773850fc603565f6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amwavefile.h"
+          },
+          "hashes": {
+            "sha-256": "0411807fd625c9da7c317f029ef25484d9f46b3246b1e9bb2b90bd3e63a2895d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/amsoundstream.h"
+          },
+          "hashes": {
+            "sha-256": "32375bf33398b49a869c92be56cb88be6c547c8448248a01ee6d1daef571af11"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/amsdk/include/fft.h"
+          },
+          "hashes": {
+            "sha-256": "d17334f167718dc149dd38b0510252bdc7ec2efa0949e682a1dbf71a80166166"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/afsdk/include/ainifile.h"
+          },
+          "hashes": {
+            "sha-256": "1d5e933f1666e3232ec58f462b571234b1d79c56a08255b46c1ea8ad55b3725c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/arect.h"
+          },
+          "hashes": {
+            "sha-256": "ac982401803e47ed9a6c58758f776a8ce9e9eccbcb6b0c5bd64caeba140339b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/apoint.h"
+          },
+          "hashes": {
+            "sha-256": "ba391c07294003a07ba15c3ccb6c9352cd3bbb158a1d02959e2ac65f532abf38"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\</FILEPATH>
+      <FILENAME>playerwrapper.h</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "GNET::PlayerWrapper::object" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>GNET::PlayerWrapper::{ctor}</FUNCTION>
+    <DECORATED>??0PlayerWrapper@GNET@@QAE@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GNET::PlayerWrapper::object</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\</FILEPATH>
+      <FILENAME>skill.h</FILENAME>
+      <LINE>200</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "GNET::Skill::level" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>GNET::Skill::{ctor}</FUNCTION>
+    <DECORATED>??0Skill@GNET@@IAE@IPBVSkillStub@1@@Z</DECORATED>
+    <FUNCLINE>200</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GNET::Skill::level</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

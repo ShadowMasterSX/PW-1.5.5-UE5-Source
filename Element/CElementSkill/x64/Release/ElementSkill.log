@@ -1,0 +1,64 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
+  ElementSkill.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skillwrapper.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "hashmap.h": No such file or directory
+  (Quelldatei „ElementSkill.cpp“ wird kompiliert)
+  
+  gnstring.cpp
+  skill.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „skill.cpp“ wird kompiliert)
+  
+  skillwrapper.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skillwrapper.h(5,10): error C1083: Datei (Include) kann nicht geöffnet werden: "hashmap.h": No such file or directory
+  (Quelldatei „skillwrapper.cpp“ wird kompiliert)
+  
+  StdAfx.cpp
+  stubs1.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs1.cpp“ wird kompiliert)
+  
+  stubs10.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs10.cpp“ wird kompiliert)
+  
+  stubs11.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs11.cpp“ wird kompiliert)
+  
+  stubs12.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs12.cpp“ wird kompiliert)
+  
+  stubs2.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs2.cpp“ wird kompiliert)
+  
+  stubs3.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs3.cpp“ wird kompiliert)
+  
+  stubs4.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs4.cpp“ wird kompiliert)
+  
+  stubs5.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs5.cpp“ wird kompiliert)
+  
+  stubs6.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs6.cpp“ wird kompiliert)
+  
+  stubs7.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs7.cpp“ wird kompiliert)
+  
+  stubs8.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs8.cpp“ wird kompiliert)
+  
+  stubs9.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementSkill\skill.h(6,10): error C1083: Datei (Include) kann nicht geöffnet werden: "vector.h": No such file or directory
+  (Quelldatei „stubs9.cpp“ wird kompiliert)
+  
+  Code wird generiert...

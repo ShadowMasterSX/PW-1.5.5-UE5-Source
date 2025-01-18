@@ -1,0 +1,569 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Rückgabewert wird ignoriert: \"swscanf\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+                },
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 2,
+                  "endLine": 259,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AWString::ToFloat",
+                  "decoratedName": "?ToFloat@AWString@@QBEMXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::m"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR3::{ctor}",
+                  "decoratedName": "??0A3DVECTOR3@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR3::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::<unnamed-tag>::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"A3DVECTOR4::<unnamed-tag>::m\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "A3DVECTOR4::{ctor}",
+                  "decoratedName": "??0A3DVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "A3DVECTOR4::<unnamed-tag>::m"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "011cc7b0d5ba55ae4e7a990cdb8441412d29c1066968fefd9863e7fc924d7444"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f8ef1b3c2166a11303845514de1b5c56609a975662e5b3e9a790e3abdd380ea4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/a3dSDK/Include/A3DVector.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "ab7d0697191fe3b3a614d4829bde5074569b65bf44f2ec2864e0525b9965823c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectangle.h"
+          },
+          "hashes": {
+            "sha-256": "73f70fec5e814c9ad8ba6cf429dc3a653ff48754750f7e1ba30578f45b1609b4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphrectbase.h"
+          },
+          "hashes": {
+            "sha-256": "63e9e9182a0d2ec20a7a3b4faa480c022ad9d12fa389bbe28add365dd52fbf05"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyphgraphbase.h"
+          },
+          "hashes": {
+            "sha-256": "ee78daaf370f61aa7a3ac60025b11a741d9cf998cd76f7b85fe92792ffa26915"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwglyph.h"
+          },
+          "hashes": {
+            "sha-256": "44d4ae9f12226fd9b723e24a37e023d3c321506435c200d033df77d2611e8342"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwconfig.h"
+          },
+          "hashes": {
+            "sha-256": "fee171cb492eab40ffecedbfa1ce0e172a1d3fd394582ed6cc4bbb7d441a16a4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwobject.h"
+          },
+          "hashes": {
+            "sha-256": "1a106454cc57289ff7a9885fbce74953e8d4b1e87466e7c69749e22213754f77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwruntimeclass.h"
+          },
+          "hashes": {
+            "sha-256": "5018f1d72cc2d3919be08683bf04dbdf05a5915c8fbb74794569021e857c2638"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alist2.h"
+          },
+          "hashes": {
+            "sha-256": "4193bee18d941f96ab99e5081c9c17fab8be9a88d6099b12837bb034d33196b7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/amemory.h"
+          },
+          "hashes": {
+            "sha-256": "25878670106572bc734d5faff16566fd68d61b1ebcf2d4322c981d03dfc58df4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alog.h"
+          },
+          "hashes": {
+            "sha-256": "cb9ddc1071a371951261993c94bbe8efd7344d3eb8e9e6827e08fc2a8440b91d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/acplatform.h"
+          },
+          "hashes": {
+            "sha-256": "1e947709fbd4c3c429ddef3b655539e4fcda8f663986e6ddb9a96bd543682159"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aarray.h"
+          },
+          "hashes": {
+            "sha-256": "72edbc9f5bd14ab32eb9d0b89d91ccc009ca70c5f35c8be94bd298ba7442b272"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/apoint.h"
+          },
+          "hashes": {
+            "sha-256": "ba391c07294003a07ba15c3ccb6c9352cd3bbb158a1d02959e2ac65f532abf38"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/arect.h"
+          },
+          "hashes": {
+            "sha-256": "ac982401803e47ed9a6c58758f776a8ce9e9eccbcb6b0c5bd64caeba140339b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astring.h"
+          },
+          "hashes": {
+            "sha-256": "e5b80e295e2c1b7fa25acb4691465e465b4722e6b018d8535aad888c3d74b737"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aassist.h"
+          },
+          "hashes": {
+            "sha-256": "ea630dfb9c24713ece52fdce0989eba376d0da3e8fd0c5e12b3799848cc04b12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/global.h"
+          },
+          "hashes": {
+            "sha-256": "e43d789387575974c7b5d1f374bcbac94d88049e68d2ecbc6d84f4e1143dcb49"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwalgorithm.h"
+          },
+          "hashes": {
+            "sha-256": "d2af03c0756a4810388924988b2603443b923197072f510dfd3537b0a5f7ad99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwarray.h"
+          },
+          "hashes": {
+            "sha-256": "401254fe3a80ef60923e5e35594275374acb49dd94f91d4085415e50b63dd7ce"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/fwarchive.h"
+          },
+          "hashes": {
+            "sha-256": "da3dd3b3ccc23301e0d4c02950a9fada6953070afb1277698ff081780b5ead08"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/charoutline.h"
+          },
+          "hashes": {
+            "sha-256": "9cfb570eaa951333354cb5e0df7e30d1f8e8d00a36dd2d6a632c7a9920573187"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/charcontour.h"
+          },
+          "hashes": {
+            "sha-256": "49eafb80a92293b092c32afa89b77d241e31e2d0e3a54daa0f6c2863ec5aa13e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/cfweditorlib/charverticesbuffer.h"
+          },
+          "hashes": {
+            "sha-256": "bd66f7ff1436ea1713625f1fe22b84bf22d4d62c123e7eae59a98ad34e0a5367"
+          }
+        }
+      ]
+    }
+  ]
+}

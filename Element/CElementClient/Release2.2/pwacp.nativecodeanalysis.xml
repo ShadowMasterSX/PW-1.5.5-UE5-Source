@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\defence\</FILEPATH>
+      <FILENAME>pwacp.cpp</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "IsWindows*" anstelle von "GetVersionExW". Ursache: Deprecated. Use VerifyVersionInfo* or IsWindows* macros from VersionHelpers.</DESCRIPTION>
+    <FUNCTION>PWACP::IsWinXP</FUNCTION>
+    <DECORATED>?IsWinXP@PWACP@@YA_NXZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\defence\</FILEPATH>
+      <FILENAME>pwacp.cpp</FILENAME>
+      <LINE>52</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>28159</DEFECTCODE>
+    <DESCRIPTION>Verwenden Sie eventuell "IsWindows*" anstelle von "GetVersionExW". Ursache: Deprecated. Use VerifyVersionInfo* or IsWindows* macros from VersionHelpers.</DESCRIPTION>
+    <FUNCTION>PWACP::IsWinXP</FUNCTION>
+    <DECORATED>?IsWinXP@PWACP@@YA_NXZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,270 @@
+﻿  CharContour.cpp
+  CharCurve.cpp
+  CharOutline.cpp
+  CharVerticesBuffer.cpp
+  CodeTemplate.cpp
+  FWAlgorithm.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWAlgorithm.cpp“ wird kompiliert)
+  
+  FWArchive.cpp
+  FWArt.cpp
+  FWArtArc.cpp
+  FWArtCreator.cpp
+  FWArtDoubleArc.cpp
+  FWArtNoChange.cpp
+  FWArtStepScale.cpp
+  FWArtTilt.cpp
+  FWArtWave.cpp
+  FWAssemblyCache.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWAssemblyCache.cpp“ wird kompiliert)
+  
+  FWAssemblyProfile.cpp
+  FWAssemblySet.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWAssemblySet.cpp“ wird kompiliert)
+  
+  FWAUIManager.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWAUIManager.cpp“ wird kompiliert)
+  
+  FWCommand.cpp
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...
+  Kompilieren...
+  FWCommandCombine.cpp
+  FWCommandCreate.cpp
+  FWCommandDelete.cpp
+  FWCommandDuplicateHandle.cpp
+  FWCommandList.cpp
+  FWCommandMove.cpp
+  FWCommandMoveHandle.cpp
+  FWCommandRemoveHandle.cpp
+  FWCommandResize.cpp
+  FWCommandRotate.cpp
+  FWCommandSetBezierMode.cpp
+  FWCommandSetGlyphProp.cpp
+  FWCommandUnCombine.cpp
+  FWDialogBase.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogBase.cpp“ wird kompiliert)
+  
+  FWDialogBezierMenu.cpp
+  FWDialogBoard.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogBoard.cpp“ wird kompiliert)
+  
+  FWDialogCustom.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogCustom.cpp“ wird kompiliert)
+  
+  FWDialogEdit.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogEdit.cpp“ wird kompiliert)
+  
+  FWDialogGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogGraph.cpp“ wird kompiliert)
+  
+  FWDialogGraphMenu.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogGraphMenu.cpp“ wird kompiliert)
+  
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...
+  Kompilieren...
+  FWDialogLanch.cpp
+  FWDialogMain.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogMain.cpp“ wird kompiliert)
+  
+  FWDialogParam.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogParam.cpp“ wird kompiliert)
+  
+  FWDialogPlay.cpp
+  FWDialogPolygonMenu.cpp
+  FWDialogPropBase.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogPropBase.cpp“ wird kompiliert)
+  
+  FWDialogScale.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogScale.cpp“ wird kompiliert)
+  
+  FWDialogSimple.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogSimple.cpp“ wird kompiliert)
+  
+  FWDialogText.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogText.cpp“ wird kompiliert)
+  
+  FWDialogTool.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWDialogTool.cpp“ wird kompiliert)
+  
+  FWDoc.cpp
+  FWFirework.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWFirework.cpp“ wird kompiliert)
+  
+  FWFireworkCustom.cpp
+  FWFireworkElement.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWFireworkElement.cpp“ wird kompiliert)
+  
+  FWFireworkGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWFireworkGraph.cpp“ wird kompiliert)
+  
+  FWFireworkLanch.cpp
+  FWFireworkLeaf.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWFireworkLeaf.cpp“ wird kompiliert)
+  
+  FWFireworkSimple.cpp
+  FWFlatCollector.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWFlatCollector.cpp“ wird kompiliert)
+  
+  FWFontEnum.cpp
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...
+  Kompilieren...
+  FWFormula.cpp
+  FWFormulaElement.cpp
+  FWFormulaList.cpp
+  FWGfxWithModifier.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWGfxWithModifier.cpp“ wird kompiliert)
+  
+  FWGlyph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWGlyph.cpp“ wird kompiliert)
+  
+  FWGlyphBezier.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWGlyphBezier.cpp“ wird kompiliert)
+  
+  FWGlyphComposite.cpp
+  FWGlyphEllipse.cpp
+  FWGlyphFirework.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWGlyphFirework.cpp“ wird kompiliert)
+  
+  FWGlyphGraphBase.cpp
+  FWGlyphList.cpp
+  FWGlyphPolygon.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838: Konvertierung von "T" zu "FLOAT" erfordert eine einschränkende Konvertierung
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4838:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244: "Initialisierung": Konvertierung von "T" in "FLOAT", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,37): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838: Konvertierung von "T" zu "FLOAT" erfordert eine einschränkende Konvertierung
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4838:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244: "Initialisierung": Konvertierung von "T" in "FLOAT", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWGlyphPolygon.cpp(127,58): warning C4244:         ]
+  FWGlyphRectangle.cpp
+  FWGlyphRectBase.cpp
+  FWGlyphText.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWGlyphText.cpp“ wird kompiliert)
+  
+  FWInnerProperty.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWInnerProperty.cpp“ wird kompiliert)
+  
+  FWLog.cpp
+  FWManager.cpp
+  FWModifier.cpp
+  FWModifierCreator.cpp
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...
+  Kompilieren...
+  FWModifierParabola.cpp
+  FWModifierRing.cpp
+  FWObject.cpp
+  FWOperand.cpp
+  FWOperator.cpp
+  FWOutterProperty.cpp
+  FWParam.cpp
+  FWParticalQuota.cpp
+  FWParticalQuotaList.cpp
+  FWPlayer.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWPlayer.cpp“ wird kompiliert)
+  
+  FWRuntimeClass.cpp
+  FWSharedFile.cpp
+  FWState.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWState.cpp“ wird kompiliert)
+  
+  FWStateCreateBezier.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStateCreateBezier.cpp“ wird kompiliert)
+  
+  FWStateCreateFirework.cpp
+  FWStateCreatePolygon.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStateCreatePolygon.cpp“ wird kompiliert)
+  
+  FWStateCreateRect.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStateCreateRect.cpp“ wird kompiliert)
+  
+  FWStateCreateText.cpp
+  FWStateMove.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStateMove.cpp“ wird kompiliert)
+  
+  FWStateMoveHandle.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStateMoveHandle.cpp“ wird kompiliert)
+  
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...
+  Kompilieren...
+  FWStateMoveWindow.cpp
+  FWStateNetSelect.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStateNetSelect.cpp“ wird kompiliert)
+  
+  FWStateResize.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStateResize.cpp“ wird kompiliert)
+  
+  FWStateRotate.cpp
+  FWStateSelect.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWStateSelect.cpp(181,13): warning C4146: Einem vorzeichenlosen Typ wurde ein unärer Minus-Operator zugewiesen. Das Ergebnis ist weiterhin vorzeichenlos.
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CFWEditorLib\FWStateSelect.cpp(187,13): warning C4146: Einem vorzeichenlosen Typ wurde ein unärer Minus-Operator zugewiesen. Das Ergebnis ist weiterhin vorzeichenlos.
+  FWStream.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWStream.cpp“ wird kompiliert)
+  
+  FWTemplate.cpp
+  FWTextMesh.cpp
+  FWView.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „FWView.cpp“ wird kompiliert)
+  
+  GLUContour.cpp
+  GLUPolygon.cpp
+  GLUTess.cpp
+  Mesh.cpp
+  Triangle.cpp
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...

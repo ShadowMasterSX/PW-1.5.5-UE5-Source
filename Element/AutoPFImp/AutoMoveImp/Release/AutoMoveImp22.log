@@ -1,0 +1,117 @@
+﻿  CluCommon.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „CluCommon.cpp“ wird kompiliert)
+  
+  CluGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „CluGraph.cpp“ wird kompiliert)
+  
+  CluGraphConnector.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „CluGraphConnector.cpp“ wird kompiliert)
+  
+  ClusterAbstraction.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „ClusterAbstraction.cpp“ wird kompiliert)
+  
+  GAStar.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „GAStar.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\GAStar.cpp(280,47): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  GHeap.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „GHeap.cpp“ wird kompiliert)
+  
+  Graph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „Graph.cpp“ wird kompiliert)
+  
+  Island.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(18,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3d8.h": No such file or directory
+  (Quelldatei „Island.cpp“ wird kompiliert)
+  
+  LayerMap.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „LayerMap.cpp“ wird kompiliert)
+  
+  MapGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „MapGraph.cpp“ wird kompiliert)
+  
+  MapNode.cpp
+  MAStar.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MAStar.cpp(113,43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  MoveAgent.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244: "Argument": Konvertierung von "T" in "const T", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:         and
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:             T=float
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,50): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244: "Argument": Konvertierung von "T" in "const T", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:         and
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:             T=float
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(573,26): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244: "Argument": Konvertierung von "T" in "const T", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:         and
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:             T=float
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,41): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244: "Argument": Konvertierung von "T" in "const T", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:         and
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:             T=float
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveAgent.cpp(574,29): warning C4244:         ]
+  MoveMap.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „MoveMap.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244: "Argument": Konvertierung von "const T" in "const T", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         and
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:             T=float
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,44): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244: "Argument": Konvertierung von "const T" in "const T", möglicher Datenverlust
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         with
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:             T=int
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         and
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         [
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:             T=float
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(280,35): warning C4244:         ]
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\MoveMap.cpp(398,24): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+  MultiCluGraph.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „MultiCluGraph.cpp“ wird kompiliert)
+  
+  OptimizePath.cpp
+  PfClu.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\Graph.h(92,42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „PfClu.cpp“ wird kompiliert)
+  
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\AutoPFImp\AutoMoveImp\PfClu.cpp(222,16): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  PfConstant.cpp
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert...

@@ -1,0 +1,241 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6308",
+          "message": {
+            "text": "\"realloc\" gibt möglicherweise einen NULL-Zeiger zurück: Das Zuweisen eines NULL-Zeigers zu \"base\", das als Argument an \"realloc\" übergeben wird, führt zu einem Verlust im ursprünglichen Speicherblock"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/enumwin32pro.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnoctets.h"
+                },
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 11,
+                  "endLine": 21,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GNET::Octets::reserve",
+                  "decoratedName": "?reserve@Octets@GNET@@QAEAAV12@I@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"GNET::Marshal::OctetsStream::tranpos\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/enumwin32pro.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnmarshal.h"
+                },
+                "region": {
+                  "startLine": 154,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GNET::Marshal::OctetsStream::{ctor}",
+                  "decoratedName": "??0OctetsStream@Marshal@GNET@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GNET::Marshal::OctetsStream::tranpos"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"GNET::Marshal::OctetsStream::tranpos\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/enumwin32pro.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnmarshal.h"
+                },
+                "region": {
+                  "startLine": 155,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GNET::Marshal::OctetsStream::{ctor}",
+                  "decoratedName": "??0OctetsStream@Marshal@GNET@@QAE@ABVOctets@2@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GNET::Marshal::OctetsStream::tranpos"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"GNET::Marshal::OctetsStream::tranpos\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/enumwin32pro.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnmarshal.h"
+                },
+                "region": {
+                  "startLine": 156,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GNET::Marshal::OctetsStream::{ctor}",
+                  "decoratedName": "??0OctetsStream@Marshal@GNET@@QAE@ABV012@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GNET::Marshal::OctetsStream::tranpos"
+          }
+        },
+        {
+          "ruleId": "C6242",
+          "message": {
+            "text": "Ein Sprung aus diesem Bereich erzwingt eine lokale Entladung. Dies führt zu Leistungseinbußen. Verlassen Sie den Bereich des Versuchs mithilfe von \"__leave\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/enumwin32pro.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/defence/EnumWin32Pro.cpp"
+                },
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 13,
+                  "endLine": 42,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EnumProcs",
+                  "decoratedName": "?EnumProcs@@YGHP6GHKGPADJ@ZJ@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/enumwin32pro.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "20e5a87858d2c07ab1a729bbe4b7dd820116095718d56b82b6619019e3ee4fc4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnoctets.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "5dd650aee456b83ab7fa32e2846fcfa659f3ffff8fc1de3f8478eb80b814f126"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnmarshal.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "959b199033dc19f1304eb63dfd8df150e7497f1111e24372e41f9591ae74df19"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/enumwin32pro.h"
+          },
+          "hashes": {
+            "sha-256": "f8c5161ea24ae7292881a02911448495c8647ba7095be7e6fdf8b497f0aea86d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/defence/infocollection.h"
+          },
+          "hashes": {
+            "sha-256": "73ec73b820445bdd8714a1514f8fbd11f37c65e5d6891812b29a216df6308f55"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/network/iolib/gnbyteorder.h"
+          },
+          "hashes": {
+            "sha-256": "259f2dc7a2e4b6522fe785a278b8a350f36f830abae98c422ca9b0f74980025f"
+          }
+        }
+      ]
+    }
+  ]
+}

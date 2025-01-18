@@ -1,0 +1,420 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C28251",
+          "message": {
+            "text": "Inkonsistente Anmerkung für \"new\": diese Instanz verfügt über keine Anmerkungen. Siehe c:\\users\\dominik\\documents\\github\\pw-cliente-source-153\\element\\celementclient\\predefined c++ types (compiler internal)(43). Die erste vom Benutzer bereitgestellte Anmerkung zu dieser integrierten Funktion befindet sich in Zeile c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.42.34433\\include\\vcruntime_new.h(44). "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_changepill.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AMemory.h"
+                },
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "new",
+                  "decoratedName": "??2@YAPAXI@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28251",
+          "message": {
+            "text": "Inkonsistente Anmerkung für \"new[]\": diese Instanz verfügt über keine Anmerkungen. Siehe c:\\users\\dominik\\documents\\github\\pw-cliente-source-153\\element\\celementclient\\predefined c++ types (compiler internal)(68). Die erste vom Benutzer bereitgestellte Anmerkung zu dieser integrierten Funktion befindet sich in Zeile c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.42.34433\\include\\vcruntime_new.h(55). "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_changepill.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AMemory.h"
+                },
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "new[]",
+                  "decoratedName": "??_U@YAPAXI@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Rückgabewert wird ignoriert: \"swscanf\"."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_changepill.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+                },
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 2,
+                  "endLine": 259,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AWString::ToFloat",
+                  "decoratedName": "?ToFloat@AWString@@QBEMXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"CECChangePill::m_nGender\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_changepill.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_ChangePill.cpp"
+                },
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 16
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECChangePill::{ctor}",
+                  "decoratedName": "??0CECChangePill@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CECChangePill::m_nGender"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_changepill.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "162923c12ea98f30f6d109ef5ec11d18f1511eaf5f38292c70c45d8bde880fe5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AMemory.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "25878670106572bc734d5faff16566fd68d61b1ebcf2d4322c981d03dfc58df4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Angelica2/output/acSDK/Include/AWString.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f8ef1b3c2166a11303845514de1b5c56609a975662e5b3e9a790e3abdd380ea4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_changepill.h"
+          },
+          "hashes": {
+            "sha-256": "3f1fbb04afdeea858598d6ae49203d760a409ed177613f1b5a9954e9f17ef3db"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/vector.h"
+          },
+          "hashes": {
+            "sha-256": "68c627400676365c3d2e1fb61cfcba71674b563163c6d84e7c1a39380b1316c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/afsdk/include/afileimage.h"
+          },
+          "hashes": {
+            "sha-256": "3173365b71331cad896962079c3c795dc4f449d9d4387d4124616a828e168f30"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/afsdk/include/afplatform.h"
+          },
+          "hashes": {
+            "sha-256": "116c2eebca85776e412322631e7d91239243f1fae494aede9cd92d33943bf5f8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/ac.h"
+          },
+          "hashes": {
+            "sha-256": "66270b55c1039b847f9c55bdeb206c2e1c4756544823086655be2e0ed3724e04"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/achar.h"
+          },
+          "hashes": {
+            "sha-256": "c06ff6340286c047a3f1474b45e55f7b94748f28baeb683094541a69ee70c736"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alist.h"
+          },
+          "hashes": {
+            "sha-256": "47230dc916b4078fa64e706f676cc024e72119e2cd70f674b1ea1d0f28982056"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alist2.h"
+          },
+          "hashes": {
+            "sha-256": "4193bee18d941f96ab99e5081c9c17fab8be9a88d6099b12837bb034d33196b7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/alog.h"
+          },
+          "hashes": {
+            "sha-256": "cb9ddc1071a371951261993c94bbe8efd7344d3eb8e9e6827e08fc2a8440b91d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/acplatform.h"
+          },
+          "hashes": {
+            "sha-256": "1e947709fbd4c3c429ddef3b655539e4fcda8f663986e6ddb9a96bd543682159"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aarray.h"
+          },
+          "hashes": {
+            "sha-256": "72edbc9f5bd14ab32eb9d0b89d91ccc009ca70c5f35c8be94bd298ba7442b272"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/apoint.h"
+          },
+          "hashes": {
+            "sha-256": "ba391c07294003a07ba15c3ccb6c9352cd3bbb158a1d02959e2ac65f532abf38"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/arect.h"
+          },
+          "hashes": {
+            "sha-256": "ac982401803e47ed9a6c58758f776a8ce9e9eccbcb6b0c5bd64caeba140339b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astring.h"
+          },
+          "hashes": {
+            "sha-256": "e5b80e295e2c1b7fa25acb4691465e465b4722e6b018d8535aad888c3d74b737"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astack.h"
+          },
+          "hashes": {
+            "sha-256": "13092a1ab486c942e942e56fcb4a9c62f80d45ab18084c3d76f961c1d13d0121"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/jexception.h"
+          },
+          "hashes": {
+            "sha-256": "2f19c3e095a7e237e0a2219adccc820c6c87c2c6c64b9867ad3ad96d22876e3a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aassist.h"
+          },
+          "hashes": {
+            "sha-256": "ea630dfb9c24713ece52fdce0989eba376d0da3e8fd0c5e12b3799848cc04b12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/acounter.h"
+          },
+          "hashes": {
+            "sha-256": "2da93b3c9dd514d74250f6c7e010e3f05b7a886618b150e0984cb3b22bee9f7e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/acswrapper.h"
+          },
+          "hashes": {
+            "sha-256": "5d562bc7a790d13f3ef20229e38bc1aa08575339e1f015f10c85870e9f1aef1c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aperlinnoise1d.h"
+          },
+          "hashes": {
+            "sha-256": "73656bdc9494589c02560f80e862671f6a7102c686e250ffd62f36e550e0f18f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aperlinnoisebase.h"
+          },
+          "hashes": {
+            "sha-256": "ac8335ad736d3e5513daeca7aafee7dff20d81c6fe64dfccf5a6766a79018335"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aperlinnoise2d.h"
+          },
+          "hashes": {
+            "sha-256": "9704c89850f930515cc18b29725985ce0c8eb4e86886d581c30a6b2bca8f5217"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/aperlinnoise3d.h"
+          },
+          "hashes": {
+            "sha-256": "b3374fe1a335216e2999ca852c80967ca12a366dc092afa33c6832a40823d9bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/atime.h"
+          },
+          "hashes": {
+            "sha-256": "3da0b2976a527b3f750b544cc2bbdd349b1e37c5b5f23b14c3087a01cf5782f1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/arandomgen.h"
+          },
+          "hashes": {
+            "sha-256": "8a3410f86f84635f1a63a6908665a47350a184e29cf453a26491c808c6474eb1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/afsdk/include/afile.h"
+          },
+          "hashes": {
+            "sha-256": "fbd36cf78e8404bb4967761d0320743fabbb7adc39df0906c4c5047414ca1758"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/afsdk/include/afilepackage.h"
+          },
+          "hashes": {
+            "sha-256": "bd0bc84c1c21a0aa98c9cafdf352f3bc2b7f4ff8ed362c4313ccb628fea03392"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashtab.h"
+          },
+          "hashes": {
+            "sha-256": "dfcfe94cf0ce7da9e18683c3d96efd89fa079984a437b038c6a94613ef16c568"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/afsdk/include/afilepackbase.h"
+          },
+          "hashes": {
+            "sha-256": "cb1a15ca9b6b7cd84fa6de190c602cf1d33dc4c0f49fe79b80c72f0e21440d1c"
+          }
+        }
+      ]
+    }
+  ]
+}

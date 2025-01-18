@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementData\</FILEPATH>
+      <FILENAME>vector_string.cpp</FILENAME>
+      <LINE>76</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>6029</DEFECTCODE>
+    <DESCRIPTION>Möglicher Pufferüberlauf im Aufruf von „fread“.</DESCRIPTION>
+    <FUNCTION>CVectorString::Load</FUNCTION>
+    <DECORATED>?Load@CVectorString@@QAE_NPAU_iobuf@@@Z</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

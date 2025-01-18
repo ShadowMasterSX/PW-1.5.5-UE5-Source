@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="AUI Objects">
+      <UniqueIdentifier>{368a328f-35e9-41dd-a047-3fff31c51061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AUI Objects\Source Files">
+      <UniqueIdentifier>{81e7a463-3efb-4656-a350-6899b091a173}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AUI Objects\Header Files">
+      <UniqueIdentifier>{c658c18d-32e6-4a6a-8f0f-7a842fd2344f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common Files">
+      <UniqueIdentifier>{2f1022ef-b68f-4780-949f-0e2a518b7058}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common Files\Source Files">
+      <UniqueIdentifier>{5b47e145-3adb-4fb4-8af8-9151595d5e73}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Common Files\Header Files">
+      <UniqueIdentifier>{deba7ba1-e19d-45bf-b160-e4be8ab33aa8}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AUICheckBox.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIComboBox.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIConsole.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIEditBox.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIImagePicture.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUILabel.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIListBox.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIModelPicture.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIObject.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIPicture.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIProgress.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIRadioButton.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIScroll.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUISlider.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIStillImageButton.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUISubDialog.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUITextArea.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUITreeView.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIVerticalText.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIWindowPicture.cpp">
+      <Filter>AUI Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A2DDotLine.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A2DDotLineMan.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A3DAlterableSkinModel.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A3DFTFont.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A3DFTFontMan.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AStringWithWildcard.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUI.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIClockIcon.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUICommon.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUICTranslate.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUICustomize.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIDialog.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIFrame.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIImeHook.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUILuaDialog.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUILuaManager.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIManager.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUIObjectTemplateManager.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AUITag.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AXMLFile.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSplit.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImeUi.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IMEWrapper.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaDlgApi.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UIRenderTarget.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WndThreadManager.cpp">
+      <Filter>Common Files\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AUICheckBox.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIComboBox.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIConsole.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUICustomize.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIEditBox.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIImagePicture.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUILabel.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIListBox.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIObject.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIProgress.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIRadioButton.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIScroll.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUISlider.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIStillImageButton.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUISubDialog.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUITextArea.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUITreeView.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIVerticalText.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIWindowPicture.h">
+      <Filter>AUI Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="A2DDotLine.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="A2DDotLineMan.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="A3DAlterableSkinModel.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="A3DFTFont.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="A3DFTFontMan.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AStringWithWildcard.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUI.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIClockIcon.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUICommon.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUICTranslate.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIDef.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIDialog.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIFrame.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIImeHook.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUILuaDialog.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUILuaManager.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIManager.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIModelPicture.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIObjectTemplateManager.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUIPicture.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AUITag.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AXMLFile.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSplit.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FTInterface.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImeUi.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IMEWrapper.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaDlgApi.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIRenderTarget.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WndThreadManager.h">
+      <Filter>Common Files\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

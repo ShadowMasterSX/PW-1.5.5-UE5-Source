@@ -1,0 +1,94 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6308",
+          "message": {
+            "text": "\"realloc\" gibt möglicherweise einen NULL-Zeiger zurück: Das Zuweisen eines NULL-Zeigers zu \"base\", das als Argument an \"realloc\" übergeben wird, führt zu einem Verlust im ursprünglichen Speicherblock"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_urlosnavigator.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnoctets.h"
+                },
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 11,
+                  "endLine": 21,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GNET::Octets::reserve",
+                  "decoratedName": "?reserve@Octets@GNET@@QAEAAV12@I@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_urlosnavigator.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "f4c433447f4b53abd07ba36b3323fc0162e8183677911a35ab3e51b8b501a52d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/Network/IOLib/gnoctets.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "5dd650aee456b83ab7fa32e2846fcfa659f3ffff8fc1de3f8478eb80b814f126"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_urlosnavigator.h"
+          },
+          "hashes": {
+            "sha-256": "1c9eb50ff8f8b343bca45d763af0b84ee176f12f947713ae0317d47422fa48c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/astring.h"
+          },
+          "hashes": {
+            "sha-256": "e5b80e295e2c1b7fa25acb4691465e465b4722e6b018d8535aad888c3d74b737"
+          }
+        }
+      ]
+    }
+  ]
+}

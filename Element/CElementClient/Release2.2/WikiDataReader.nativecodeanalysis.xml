@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AWString.h</FILENAME>
+      <LINE>259</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "swscanf".</DESCRIPTION>
+    <FUNCTION>AWString::ToFloat</FUNCTION>
+    <DECORATED>?ToFloat@AWString@@QBEMXZ</DECORATED>
+    <FUNCLINE>253</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\afSDK\Include\</FILEPATH>
+      <FILENAME>AWScriptFile.h</FILENAME>
+      <LINE>121</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "swscanf".</DESCRIPTION>
+    <FUNCTION>AWScriptFile::GetNextTokenAsFloat</FUNCTION>
+    <DECORATED>?GetNextTokenAsFloat@AWScriptFile@@QAEM_N@Z</DECORATED>
+    <FUNCLINE>117</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>WikiDataReader.h</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "WikiDataReader::TypeInfo::Size" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>WikiDataReader::TypeInfo::{ctor}</FUNCTION>
+    <DECORATED>??0TypeInfo@WikiDataReader@@QAE@XZ</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>WikiDataReader::TypeInfo::Size</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>WikiDataReader.h</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "WikiDataReader::MemberInfo::Offset" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>WikiDataReader::MemberInfo::{ctor}</FUNCTION>
+    <DECORATED>??0MemberInfo@WikiDataReader@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>WikiDataReader::MemberInfo::Offset</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\</FILEPATH>
+      <FILENAME>WikiDataReader.h</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "WikiDataReader::MemberInfo::Typemask" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>WikiDataReader::MemberInfo::{ctor}</FUNCTION>
+    <DECORATED>??0MemberInfo@WikiDataReader@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>WikiDataReader::MemberInfo::Typemask</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,2218 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"GNET::PlayerWrapper::object\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/stubs5.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementSkill/playerwrapper.h"
+                },
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GNET::PlayerWrapper::{ctor}",
+                  "decoratedName": "??0PlayerWrapper@GNET@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GNET::PlayerWrapper::object"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Die Variable \"GNET::Skill::level\" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/stubs5.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementSkill/skill.h"
+                },
+                "region": {
+                  "startLine": 200,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GNET::Skill::{ctor}",
+                  "decoratedName": "??0Skill@GNET@@IAE@IPBVSkillStub@1@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GNET::Skill::level"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/stubs5.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "7bf17122fdd02b92fa793c35a369f69c5b564106c2307a87e3f2f792e784b453"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementSkill/playerwrapper.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "349d9bfb64b0a5ae88f43a9d3b0820a78ec02dd5271adc89a4dda6a28172f80d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementSkill/skill.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "771a2567e57f170680486b336a8c3ce1bf096afa7a9a28746b8325b948a33ab1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/gnstring.h"
+          },
+          "hashes": {
+            "sha-256": "2f221ead24ce1aa212166f32781f39cefb065b57ac63a6d9faa7329714b2234a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/vector.h"
+          },
+          "hashes": {
+            "sha-256": "68c627400676365c3d2e1fb61cfcba71674b563163c6d84e7c1a39380b1316c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashmap.h"
+          },
+          "hashes": {
+            "sha-256": "20eca44a6b08876747e4d684dec2ab8dc8fa738b477417957594c64934e88ca3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/hashtab.h"
+          },
+          "hashes": {
+            "sha-256": "dfcfe94cf0ce7da9e18683c3d96efd89fa079984a437b038c6a94613ef16c568"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skillwrapper.h"
+          },
+          "hashes": {
+            "sha-256": "27c2e1ae3e8005b517185143a9388a7823ab46dee182f24d479431a921d2c3c4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/elementskill.h"
+          },
+          "hashes": {
+            "sha-256": "7cad25eb39fa190fb190910e1d06bb0b21ab2179dbd2eb3a6adf13796aadb65f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1856.h"
+          },
+          "hashes": {
+            "sha-256": "c53714f6ded9699bb5206e23a4bd953ad94066b5f0fcf05a41ff9443ca985752"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1863.h"
+          },
+          "hashes": {
+            "sha-256": "88ed0e792c80fc141765e4f0210430ddedad8e601232332d5c578dc5e6d1e518"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1870.h"
+          },
+          "hashes": {
+            "sha-256": "79cdf3aea053e227505a643ab64a39ca588ef12a0f7bec6ce5206da22c2dabbc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2249.h"
+          },
+          "hashes": {
+            "sha-256": "998d105f839fad03d13921f72f5e809079d9642ad0bb1008a81f1e9e339ecc88"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2250.h"
+          },
+          "hashes": {
+            "sha-256": "f89eb5ee41934882171b4244120a620f773dbb1a9cabde4b4ef83e38a36c5615"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2251.h"
+          },
+          "hashes": {
+            "sha-256": "8eb87329ae1f473cb13b36e5c2647f783ef6e5b8c6510a665cad3d06357e84fb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2252.h"
+          },
+          "hashes": {
+            "sha-256": "bdecf1aa769a6a56a26cb42773e29384f08300cc0c0e54fdc179a3bd32e91651"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2253.h"
+          },
+          "hashes": {
+            "sha-256": "adf276bacca3049ee09b3395774ee830ff1a3c9766df77e403378452f7608d8d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2442.h"
+          },
+          "hashes": {
+            "sha-256": "e62e824b32842fc1d667b6c2c61f46984783163b2202908511909322e68062bf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2445.h"
+          },
+          "hashes": {
+            "sha-256": "09e06e257fde30cd806a49cdadcfcd0fcf195cca0a4915e5167c619804650a90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2447.h"
+          },
+          "hashes": {
+            "sha-256": "62f90d58c3d0fe8a5efde4f5eb176c5d226da03f0141e5273e2c97c25ce63023"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2448.h"
+          },
+          "hashes": {
+            "sha-256": "997819f975f900f6de4053566129cfff8eaecb249bbb2facbd1682e363e2456e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2449.h"
+          },
+          "hashes": {
+            "sha-256": "947bce5d73e3efb9483565c7a4947d95d3d32ab9c2546175a706c2fb58d49efd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2450.h"
+          },
+          "hashes": {
+            "sha-256": "3227a8eb6967a2473301b6e424cd42d8b0785373cf15b468fe6e84af37371e80"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1374.h"
+          },
+          "hashes": {
+            "sha-256": "fff9dcfb8b4b8f8e8dee412264a7e2abd0d58109e5e82e2186f62efef1597ecb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1375.h"
+          },
+          "hashes": {
+            "sha-256": "35838d14e72fca96653d0fc5a1e0b393167216bb40ab8d3cac199fa09728d91e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1376.h"
+          },
+          "hashes": {
+            "sha-256": "8bda02926ce8723467d520e08bd82b10dcda4cd5133892c99d30b6b36a6304c6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1377.h"
+          },
+          "hashes": {
+            "sha-256": "af14ce0b5fc7bae54d3c368952db3fee34394f8f926454c568ac7d9d04d12054"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1378.h"
+          },
+          "hashes": {
+            "sha-256": "86216e7ed406bf73f7699ae365ccbe126ef23e21abda080a12dc77a1443e8e59"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1379.h"
+          },
+          "hashes": {
+            "sha-256": "755b870f4283580de9be4451dc6f4bfaed3a07b2cecd89940f649e4315db5652"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1380.h"
+          },
+          "hashes": {
+            "sha-256": "6f45616cd6af1d55d85459905842f446b93b8ca3b1a1181200e5c171a645b36d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1381.h"
+          },
+          "hashes": {
+            "sha-256": "fbf11bc23f1de19f26e82c5876dfb081b80af91f97b292d2b95f1b395876d394"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1382.h"
+          },
+          "hashes": {
+            "sha-256": "4208b6e4207842ad82f8dd94d8a2904f6c910ca3b6c7fc3e6bcb79fc1d5eeb40"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1383.h"
+          },
+          "hashes": {
+            "sha-256": "05cd01cf9e99b1db6bfd11b38bc21aafa01d6e10c390f606125b10929d300236"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1384.h"
+          },
+          "hashes": {
+            "sha-256": "af9233a29c1876f60f1f4db4c5a412454d412c518b375d42f59335e28726e0be"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1385.h"
+          },
+          "hashes": {
+            "sha-256": "43e916f51877a406955562353b047e183e3d848cd7d2c8a1841f51008dddae7f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1386.h"
+          },
+          "hashes": {
+            "sha-256": "7eddc35c2832b8c6e8a685291b25ab81eddf55d67a24a11e8423f7df3e1dbc2c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1387.h"
+          },
+          "hashes": {
+            "sha-256": "aad5e50603e11fb0a6ba89d074d4803db382ba62b580d8311d4a2025650902be"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1388.h"
+          },
+          "hashes": {
+            "sha-256": "418f8b2845ada7be99fc5c8ffa91be164582888639ed399388aeaa2bd8671ec8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1389.h"
+          },
+          "hashes": {
+            "sha-256": "2a2a652936ccd112202b1f723d5a76bf09cd53794df5b2aa2d07c5a954016620"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1390.h"
+          },
+          "hashes": {
+            "sha-256": "38ffdda7932607197648a266489daafa3508bcbdf8f833371b0ab3b3356543c2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1391.h"
+          },
+          "hashes": {
+            "sha-256": "d30f0b0a52f36b7ddc04cfda5739bc55b8b0df8b96706cbe99d0a6ab2d9e10ac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1392.h"
+          },
+          "hashes": {
+            "sha-256": "8a6e98f03829274422ccedfd24e91f033910eb7c79aaa27eb3e65d3d8178572b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1393.h"
+          },
+          "hashes": {
+            "sha-256": "d8eccc07ca7ac1da5f9b8ed66520d2d2ff037f728619d81c50afa24d3b58ff78"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1394.h"
+          },
+          "hashes": {
+            "sha-256": "26559061fd7da15e6028be636c73bd575cf9b9983d8f393243d66bd7f0ee4517"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1395.h"
+          },
+          "hashes": {
+            "sha-256": "004c1824d846a57bab983f4bdcd2c414c626ea26c633b7d2023d4790fe0c1f58"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1396.h"
+          },
+          "hashes": {
+            "sha-256": "6099adc04f94e199903eb94abcb11748533a628f604649b8d8fe14c4aac2a6c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1397.h"
+          },
+          "hashes": {
+            "sha-256": "6da12634ccb442a3e3fd205fe9d27f972066d12236b3c7f1e7ef48ca559922c1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1398.h"
+          },
+          "hashes": {
+            "sha-256": "d26f466dd0e5d77e2d69641be1dbeba25816c1206c11bf2d8c7a3783fa71ffd2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1399.h"
+          },
+          "hashes": {
+            "sha-256": "57041636b4149a117ffaa8621158ea321e570be52f71cb8118eadb08dfb74d85"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1400.h"
+          },
+          "hashes": {
+            "sha-256": "68bf64d8a23d3c7a88cd30258d4443e028a86ec13c868a470e61f4797116df54"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1401.h"
+          },
+          "hashes": {
+            "sha-256": "79a1dfe100b362aa8482455c0ec1a793a0f638a49c5edb90c35b94f27c8ff6b6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1498.h"
+          },
+          "hashes": {
+            "sha-256": "d9d09e874edda87afaa532370ff469a2ab04d19f28257f174c38e17b84c78e1c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1618.h"
+          },
+          "hashes": {
+            "sha-256": "897df1ced74183e7ed5741017dc19f8ffec83bd602bd03f1943317611723e06d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1619.h"
+          },
+          "hashes": {
+            "sha-256": "a3ab0887b8acbf572f1420dd1c933e15466abfe4a66d0aa8350b407a339a3edf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1620.h"
+          },
+          "hashes": {
+            "sha-256": "f2cbd47b5aa50b58925f12c6b4f4c2daa8f9335e1ad05d030e1f7ae07d887a9b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1621.h"
+          },
+          "hashes": {
+            "sha-256": "338fab19a9efc8f334d5672446cba266d8ae7d590362916b00a1975c5bcb6df0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1622.h"
+          },
+          "hashes": {
+            "sha-256": "7728d87a1b02e47ecc3a125e6c77a0c3f1a50bd29053c00809489ad3e3e9b599"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1623.h"
+          },
+          "hashes": {
+            "sha-256": "b7797ea958d032cb03410214ee9df465a7e3d10599302aba8f2c7745e1e1370b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1624.h"
+          },
+          "hashes": {
+            "sha-256": "415a09e17363b83e537593011d2c09cee71e883f68c0ceb26d65e8e1c4b4fa8d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1625.h"
+          },
+          "hashes": {
+            "sha-256": "cb5cdbc76108f50ca1b2a77ec11fbede9444f9747da81e37548b38422b9304be"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1626.h"
+          },
+          "hashes": {
+            "sha-256": "b5c732a60ff7f20ea3704b87cfe7fc52cadc3b5427defb2961d1306f3d309f0c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1627.h"
+          },
+          "hashes": {
+            "sha-256": "f8adfda2131f6bb9c301c68ed451ee10d144d8ba5a13b853f04fd457336e0f09"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1628.h"
+          },
+          "hashes": {
+            "sha-256": "fd7f5e115471ff93757dd5048f10bcf30d1900a8b85de1063f74a130ecfe2ca2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1629.h"
+          },
+          "hashes": {
+            "sha-256": "9e6f09be2608af20e283c7b8fea79279a86f6369aff65060167948f8fa407d67"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1630.h"
+          },
+          "hashes": {
+            "sha-256": "13b64e7c91441023837394d063078586bdc37916253b981b50bb146c1716e099"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1631.h"
+          },
+          "hashes": {
+            "sha-256": "f0259ed97c464e8dd533a4d5588055b832da8245e7e3326cfb76e1fd4ba98b2b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1632.h"
+          },
+          "hashes": {
+            "sha-256": "7f51a3441e2e67974d23163a27e5471a4a0f82761354d844534f406d89f1a5de"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1633.h"
+          },
+          "hashes": {
+            "sha-256": "b3acb384a209fdc339eae7b23c179fe96287bd77fc6a066749b495f3799be58c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1634.h"
+          },
+          "hashes": {
+            "sha-256": "b9cb3813c75e0b30aeb0e51573f99cafe966c46f892d438069b8a4befae7cafc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1635.h"
+          },
+          "hashes": {
+            "sha-256": "c8e7fbf10db5cd2b711370160f2fd8701cf2fb9fe8dfd60abd22e60f9ba4d74f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1636.h"
+          },
+          "hashes": {
+            "sha-256": "259a771848c5960f402a6339329d932b5cfc60a38061eb28a05c2c5e4cf4570c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1637.h"
+          },
+          "hashes": {
+            "sha-256": "272037d516b48696a9695d15e64a6e44892466ed158fa11a9331e9abed1f3bac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1638.h"
+          },
+          "hashes": {
+            "sha-256": "984e16e928471692aca64c627f6cbf2e72491be8298a7a48144a7be066125e23"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1639.h"
+          },
+          "hashes": {
+            "sha-256": "1c92fbc5889a8da9a09d99798f75ac1ad72fd3b9a25df57c987720c40df56fd0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1640.h"
+          },
+          "hashes": {
+            "sha-256": "5276509011ad14fd086d573761a4ea78bf0d33b3f5db9a40c940a439203b76b5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1641.h"
+          },
+          "hashes": {
+            "sha-256": "db0d3885a3f2480510bbf614523b8dcda7c0554f818bd3b23bab25ac6f42ad5d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1642.h"
+          },
+          "hashes": {
+            "sha-256": "adafd11af8f5a1f350e97edb6276ce4d3231b4da704af5cfa5878b2c918a7405"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1643.h"
+          },
+          "hashes": {
+            "sha-256": "3f8870ee589f4b1570413f77b324f9bada63f3f134065fe2415de5f95d4aa1d5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1644.h"
+          },
+          "hashes": {
+            "sha-256": "0fe7ddc82205054ddad16d6c5288a7fe021a076c23643733283e5d8c58110a2c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1645.h"
+          },
+          "hashes": {
+            "sha-256": "a63f73c3d8666a66b1a6ac815fcb29f850b89dc2ac401b5168f09dfd2f0fcd3d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1651.h"
+          },
+          "hashes": {
+            "sha-256": "f6394228135b986bd109016646a99dce8ab3a692b79660970740fd5da5c622a9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1652.h"
+          },
+          "hashes": {
+            "sha-256": "d5c22d78347490e4ea1c47dae58fbeb9f3f36416dd5b30f8edd9e31c44a42565"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1653.h"
+          },
+          "hashes": {
+            "sha-256": "0ce118a024e5fee50a03d275b4d38ba55c397122e3df6ba422eece3118bac524"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1657.h"
+          },
+          "hashes": {
+            "sha-256": "cfbf52639bc387ba6a4269474f5ca38d6921dd254979ae36a43d72503895a1da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1658.h"
+          },
+          "hashes": {
+            "sha-256": "f311dc3bf94d55fb49d4ef1d7c4179fbf849a31408922398e3c65a5c3dc52b6c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1659.h"
+          },
+          "hashes": {
+            "sha-256": "fc0c7a7bd6dace7a6db3e672ebef0b26114be8cb04bcc4c410e274b03a138fb5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1660.h"
+          },
+          "hashes": {
+            "sha-256": "71b5d8a09eb6e95665e70835a911d51ac5e0bdaf04376e6a148ec5f09bb23b6a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1661.h"
+          },
+          "hashes": {
+            "sha-256": "a7a426e14d50b76cb99338e0c04e47c603da621064da757fc8c09df502c7b752"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1662.h"
+          },
+          "hashes": {
+            "sha-256": "be0003d7748e98c84babc8b255fe4f2943fdf1b564a8d84e04d3d18f3c23f54e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1663.h"
+          },
+          "hashes": {
+            "sha-256": "675705a5ed4c344d90995536142dc2d5a13dfb8bd2543bc8897aa1eb23457ee1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1723.h"
+          },
+          "hashes": {
+            "sha-256": "c6db2e268d8ff98f2eafcdcf74c6612234e312b3599cc0acc300feee7f733ec0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1724.h"
+          },
+          "hashes": {
+            "sha-256": "fba290227fb5059f5749525fb5aa60001d5c433dfd0240a9dd89ae98a4668d02"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1725.h"
+          },
+          "hashes": {
+            "sha-256": "50681b701e5a227ccf9b946d0f9121cdaf8be0e6b3953fea5ca6a1adfac91837"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1726.h"
+          },
+          "hashes": {
+            "sha-256": "7322e79490da0027c3cfa4b3ea6e7f0aa0d0cb2deeacff2695b5ebade102bbc4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1727.h"
+          },
+          "hashes": {
+            "sha-256": "8c18bed0dec58b7f3e2f2fd1e9cc485ac9ec9dc1e01595ac98fb4d0e4288ff5f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1728.h"
+          },
+          "hashes": {
+            "sha-256": "962a4bfbc8c5ebc28942bf700eef0edddfc02c9e669b1157a1c0bf27c5a258dd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1729.h"
+          },
+          "hashes": {
+            "sha-256": "079e81054ac838df3c738cf3436a422374f2bf88cfd102944c5872330365e09f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1730.h"
+          },
+          "hashes": {
+            "sha-256": "f9b21f7fb110b60be10fd62530025f27a5fc3bcbafac2104a5c6eb7b2bd6b7a5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1851.h"
+          },
+          "hashes": {
+            "sha-256": "c26d950cc29f1784b83e2b04eb289bf84b5e4281338168c2d120a073ee4f97fc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1852.h"
+          },
+          "hashes": {
+            "sha-256": "a93995812a8223c91cdf57956daf0738a7f7d502b584a4e1b4db00d60a66c717"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1853.h"
+          },
+          "hashes": {
+            "sha-256": "a2df17104ee2e8d1aa938f06c87f3b85d7f5002cb0e8695d82127dfe9ff8366e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1854.h"
+          },
+          "hashes": {
+            "sha-256": "a2198d5a3b3d0e8079656aa4b5c66955b839739af5abbedbbf7f459050080299"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1855.h"
+          },
+          "hashes": {
+            "sha-256": "dd413a61d3f4094c2825f969f0a5ebebae7a659e3d17b42828e7fba4a92a63b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1859.h"
+          },
+          "hashes": {
+            "sha-256": "689dcd6bf3f724bbaa9cab13ee4c58f53840072cca34cfc4ecb64a337e8333ba"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1860.h"
+          },
+          "hashes": {
+            "sha-256": "21296e82936cb21e14411710ff8e4e9aad28f2cd5dad08bac889456ebe383019"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1861.h"
+          },
+          "hashes": {
+            "sha-256": "165a0426a5b530be3199bb9b56fd94520ca5adaa845581daa2eab7d7d74e275d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1862.h"
+          },
+          "hashes": {
+            "sha-256": "8bd815441472e1c115f985500e45ff647c45110dc8c1062b3413192cd6b9ef4b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill1907.h"
+          },
+          "hashes": {
+            "sha-256": "49860679958ea5b7ec18b8da63357f5998e8592d25802e7ebb086f777beb68b1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2225.h"
+          },
+          "hashes": {
+            "sha-256": "421daae3755151da424e785edb6b873bcacb1533f7adc61ca5ce019b3060619d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2226.h"
+          },
+          "hashes": {
+            "sha-256": "c28f688c51233d9237b29aa7066aab087836658c934591aefdf2eff765494a65"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2227.h"
+          },
+          "hashes": {
+            "sha-256": "1f604bb8736d6f603b7069de67890cf92626652287148090838ff4d0a8f36a06"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2228.h"
+          },
+          "hashes": {
+            "sha-256": "e3bd98215a05e89fecf11b482628a746e72b6ac61a0d719df0b3c3526e4e7051"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2229.h"
+          },
+          "hashes": {
+            "sha-256": "a491b0d928f95d6eef1908b112a80c8dd51dab014123b083d640b7594c5061b5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2440.h"
+          },
+          "hashes": {
+            "sha-256": "ffd705d65dcb50dcb58fdff49e38ebf93849ce6635670af0903bc8f200512f65"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2441.h"
+          },
+          "hashes": {
+            "sha-256": "641dc6715ed45380a645ac0379234dbada205e8fb4c0fe452982ceb42c5a533d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2545.h"
+          },
+          "hashes": {
+            "sha-256": "6c0159771689fe051e90fc7d8d1bb0a90ca3477eaabd4ff3704f0799bdc658a0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2547.h"
+          },
+          "hashes": {
+            "sha-256": "3122dcb45a6f0960507e18a92749d5f1027ed65b05849b82694d485c616b69f3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2548.h"
+          },
+          "hashes": {
+            "sha-256": "c358d89408234fa092b7e38af522e9f87fcdbba4f38ffb26b9398c597c3f407e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2549.h"
+          },
+          "hashes": {
+            "sha-256": "5fd96c8ffb278bd28dc104231191292b0f37f8d2535d9dbedbfe7862687454b7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2550.h"
+          },
+          "hashes": {
+            "sha-256": "efb650e92ada9e2c31fefde59fa952c342b657a0c8b6564f3b90bf5782952656"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2551.h"
+          },
+          "hashes": {
+            "sha-256": "9128667dbe87b66f5e97cbc6540b8ff0218f73845c4dd69d832bba1b2257b111"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2552.h"
+          },
+          "hashes": {
+            "sha-256": "34cdc5119c60d2633f94887e131a9f0d170267b9b00ac7422fcde32f155717a6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2553.h"
+          },
+          "hashes": {
+            "sha-256": "66e610eaebb02190abc767ca8289fe5468925843500673e4f162392e39d40a2a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2554.h"
+          },
+          "hashes": {
+            "sha-256": "93124ca4779517464f391607b2f2f200c8f4e3b57e086a98351aad9e43ca46cd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2555.h"
+          },
+          "hashes": {
+            "sha-256": "734e429579c21dea6f8b53a8175b02d7f734a8b4a58ba06df7b1a399b9f717a1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2556.h"
+          },
+          "hashes": {
+            "sha-256": "ff257b08750fdecb347c9ffa3039cef740fc5536cf4bdeb52062be8662140234"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2557.h"
+          },
+          "hashes": {
+            "sha-256": "7e9690d2fbaa31aeb25275bd027beebc96def88c910681db300afd518b6a736f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2558.h"
+          },
+          "hashes": {
+            "sha-256": "56d89174606bdbe25545e431448e83f4551dbe4557be6f05716ea1f2733eb10a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2559.h"
+          },
+          "hashes": {
+            "sha-256": "86997eb30352e55a35d9ae91300a09ae601ac191c9e7e5ec62c40897f8c7df48"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2560.h"
+          },
+          "hashes": {
+            "sha-256": "214f33295b518f680fb3883280835d1caec462aa18463a1ee90c75d9fbd5dab7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2561.h"
+          },
+          "hashes": {
+            "sha-256": "ce6cdb7d934cc164dd70acaa6e936f7cd448a1fc649f9625afcbde1cdb45a410"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2562.h"
+          },
+          "hashes": {
+            "sha-256": "763593a217ddd14a8d75d6bdf5c030da372674a24f299ddfe4b9692ce8069391"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2563.h"
+          },
+          "hashes": {
+            "sha-256": "57514a2e57f3675769602e598baee7f863c262e4a01f979fa2b4f23e82a77a45"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2564.h"
+          },
+          "hashes": {
+            "sha-256": "9e82b49c9fbf0f85dbb6e9db47233a55d49e9e3eeef60125d49e4be3128cdb55"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2565.h"
+          },
+          "hashes": {
+            "sha-256": "9d88e78595003feb81a967e04891935232f5b962a13f87a36a48968d6aeefcd8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2566.h"
+          },
+          "hashes": {
+            "sha-256": "1b8cda06df225def0599473bd737d3f29d600b45c55c380d5b79071d0a51dcc7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2567.h"
+          },
+          "hashes": {
+            "sha-256": "475cc13aab4c18040c60bfb47f368ceac0a5c6b40911207a2f3369e5afd0fccb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2568.h"
+          },
+          "hashes": {
+            "sha-256": "abc76cbdb150c7720da64b0998e3758de7789396b9321fc341d80dd50760c2b1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2569.h"
+          },
+          "hashes": {
+            "sha-256": "5b9bdd0b05b3fecd172510989ad8685bec397f4406bd3f65fe2b0fb7089bb997"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2599.h"
+          },
+          "hashes": {
+            "sha-256": "8aca94ffb9c8d05f0e3b14b0305521e9aa4af2d9e1e6dca8ae1616431b6a311b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2602.h"
+          },
+          "hashes": {
+            "sha-256": "d4219cc270471df999a7d75944038053d7530ddc1af6a9e59f9b14c1da968de3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2603.h"
+          },
+          "hashes": {
+            "sha-256": "bf9a6be7594638132c1ee6bae40a368048a9914871de47444acfed63f51ee22a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2604.h"
+          },
+          "hashes": {
+            "sha-256": "bb81c3b15197a289aa3227f738ea78846a9754b42c2e0f7acde1b88c75124b39"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2605.h"
+          },
+          "hashes": {
+            "sha-256": "04100c9b624f143841deea7191eb48972e26bbc216adc257975baa70450675bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2606.h"
+          },
+          "hashes": {
+            "sha-256": "8ca257b4bcebefdae9ee37468a92ee2544039545304f29e5f34ad26d313df8d3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2607.h"
+          },
+          "hashes": {
+            "sha-256": "e7cae8f4f71bc88f1b1e872aee42fce59f3e91bac8bf12bfd174abf8d6d680de"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2608.h"
+          },
+          "hashes": {
+            "sha-256": "c657878107fbcd20bc098d2d54f437745b6b25706d7525d0162546052ba4ecfb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2609.h"
+          },
+          "hashes": {
+            "sha-256": "d3b4032817113a299f0369c9b1836553d36b6b8e527aadbd94ec4a63d95bc81b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2610.h"
+          },
+          "hashes": {
+            "sha-256": "fc71e987d229f7fa9846c77de0b7dbf63e87c859a08a0aad33fb63835579db28"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2611.h"
+          },
+          "hashes": {
+            "sha-256": "6d477a8fd0c3536b6f90516dde60435d630e1c8e172c67ca9020d0e3c318c073"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2612.h"
+          },
+          "hashes": {
+            "sha-256": "fc4937e47ecc9081a326add8a9319652343bbbade41e6563763fe0439c61f5c2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2613.h"
+          },
+          "hashes": {
+            "sha-256": "30f5681ad8f8f001eb210408cc1155d1202389cd0794e73ccaf3597accbad59b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2614.h"
+          },
+          "hashes": {
+            "sha-256": "3f528279260fcaab354b4d821892682a2b679feff4cde7015e3bb2f22f509ba7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2615.h"
+          },
+          "hashes": {
+            "sha-256": "42d87b18f28a7502cb5a2d6579a50fdf4e8059b2d9afabdd4aa689997a0b09ed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2616.h"
+          },
+          "hashes": {
+            "sha-256": "e4ed10ef69b35639f4588a840f57514d09ca73bf10a99034ba7aa783bfc99c26"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2673.h"
+          },
+          "hashes": {
+            "sha-256": "958a514c9a9d28a14b4e05333ad10f391f25d0038f319ed831423e3ccaa6a58b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2674.h"
+          },
+          "hashes": {
+            "sha-256": "6a5be0c11c5133c5410373b1d06cb1759bade59b40e8200ad1a1080532e67721"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2675.h"
+          },
+          "hashes": {
+            "sha-256": "d45e1598ad3a06b4b20087b32bd818cf2bee2957c30442c8f1f077ae53fbf8a0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2676.h"
+          },
+          "hashes": {
+            "sha-256": "667be07a76bedbca910793a1386257524a6f140bad28ec505c0f8ad69f53a4ca"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2687.h"
+          },
+          "hashes": {
+            "sha-256": "d3d97d21b45316f185cd667ef377b9801b964c4e932da3d8ebe182d2ae262f3a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2688.h"
+          },
+          "hashes": {
+            "sha-256": "01c65b78e25742c7326d0415c95498fd93c830792472f4c8709425fbc8496958"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2726.h"
+          },
+          "hashes": {
+            "sha-256": "f7798e6717072db237803edee2c31a3e58d972a0853f22b8c4d4af47998c6f28"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2727.h"
+          },
+          "hashes": {
+            "sha-256": "76d0391108aef3259aabfb01140d3f793f22a9beeda734f84ba81bff208fd655"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2728.h"
+          },
+          "hashes": {
+            "sha-256": "9d6ab0fd4b02ec8f4e59b4191f54af33af29f59da62b186683db7a554328c647"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2729.h"
+          },
+          "hashes": {
+            "sha-256": "0db769d96832f93860239befb9d38df28410e3757c0a0b117e49ad15fabab50f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2730.h"
+          },
+          "hashes": {
+            "sha-256": "08f06f4b806d8c5e5c1c59d5f2d7e367a699836c817ddaacb1b67386b9d36bc3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2731.h"
+          },
+          "hashes": {
+            "sha-256": "b9e2e207b587259e759c8f142cb6824b8669054461d9f9758b35085dc101fa49"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2732.h"
+          },
+          "hashes": {
+            "sha-256": "82c7e6bb7a445d32d41ed64951f70c0f26fb9edfa02027e15edba917cd8c43d6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2733.h"
+          },
+          "hashes": {
+            "sha-256": "6a0e59356e717d66a5f7dc7478c571e26b45b47e76f038187a54ea4495ea0b1d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2734.h"
+          },
+          "hashes": {
+            "sha-256": "2d08d0e3e1c5dc172f52044b4dbe30f150cafcbf5f8570e66659b894786bff10"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2735.h"
+          },
+          "hashes": {
+            "sha-256": "e75bb4acac32de7ae920e33df7b6439d510e01e0e365029a69745ef94bdfcc12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2736.h"
+          },
+          "hashes": {
+            "sha-256": "3ee7289be3b75c6054e6f8891e1b3c4b446750c094f6a0738996fce715b2de0f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2737.h"
+          },
+          "hashes": {
+            "sha-256": "6a9c26aa79e0606daf4032ef384056d3270fb447d9cb7cd91ddbb38c85d5902d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2738.h"
+          },
+          "hashes": {
+            "sha-256": "efaddc3661dde4fe8529dd97853058c77dd01712ed5b5ecca94c4e25753a467e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2739.h"
+          },
+          "hashes": {
+            "sha-256": "898c3c0ab0f023b41f11d8814a6a934253da5cf161b4c4da6ebf0e0dcbce169e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2740.h"
+          },
+          "hashes": {
+            "sha-256": "b70bea8eee2756542e0502efcecfb7889467537ffa9ec964a18914b760715f77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2741.h"
+          },
+          "hashes": {
+            "sha-256": "a4aee0a020d3366f66b750efa7f9887a81ebef82420ce3f2bf9b632fc6251554"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2742.h"
+          },
+          "hashes": {
+            "sha-256": "c83238136ae11a9c5e397c39a5a158ec4f3a1dc5c4b20b6e4ae9a0756783c64d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2743.h"
+          },
+          "hashes": {
+            "sha-256": "9618c15a41069c5fef35331cca018d00024d776ceef17f3e15ac5674d4cbcd93"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2744.h"
+          },
+          "hashes": {
+            "sha-256": "c11411915cd77754679530d804ddd826db22d52ff235846302ac6144ba802569"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2745.h"
+          },
+          "hashes": {
+            "sha-256": "5a5fb2def5bc8b8ab12d2630216eadb585f497b6fda907023be0102646bf329e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2746.h"
+          },
+          "hashes": {
+            "sha-256": "68a7c9a2d2328422cb76c267daeb39227381a319722b8f49863b4bf545a5d3b6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2747.h"
+          },
+          "hashes": {
+            "sha-256": "5a3682b5d7f1ba54a30c89730f4200f78095743cd4d675bb23d316bfe25a0979"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2748.h"
+          },
+          "hashes": {
+            "sha-256": "05884c5c92f6348fd8e7f5968e21ab0c2c111082d00d99cb17fab23390058ff2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2749.h"
+          },
+          "hashes": {
+            "sha-256": "ac29ff962e9950b21bb4ae111bdcb38e28967d6c7496442275fa0b4a17fcfddf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2750.h"
+          },
+          "hashes": {
+            "sha-256": "188b797fa98a03ba272b31c1481e2cb5d200df506e41417896a89e87270a126e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2751.h"
+          },
+          "hashes": {
+            "sha-256": "d9709d329f8999ffb980f3b3e770be7afab6949659d463751ece415237c86dab"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2752.h"
+          },
+          "hashes": {
+            "sha-256": "e2fea6f5056a534fd66cc0de8cb6343310dff025161d714cdec3d618831ab150"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2753.h"
+          },
+          "hashes": {
+            "sha-256": "b70b5ce63dcd6e3462c10dbc11013cd61a10f38f9f367c831ab6ce9230bab68f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2754.h"
+          },
+          "hashes": {
+            "sha-256": "4dfdf0637f80d28851e3c6960a882e49d99d3d6becaab255643c9175f6a83e30"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2755.h"
+          },
+          "hashes": {
+            "sha-256": "f9402d2c9c8527fb2f17732b2760d4abe1c5bd628588125454c9fb957f023247"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2756.h"
+          },
+          "hashes": {
+            "sha-256": "e74cd7f458866fc20cba64acf44438fca8d59e5dd629358e2650d39329813f75"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2757.h"
+          },
+          "hashes": {
+            "sha-256": "11af5989e744710240aa0d4aef1c31463026e551930490108912b21804e5b650"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2758.h"
+          },
+          "hashes": {
+            "sha-256": "f09d35b08345809d8510752b32d9e7641d5ca2720099a34c356eaec9f711c096"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2759.h"
+          },
+          "hashes": {
+            "sha-256": "1f08f679222f19baf87e87ae8a49f19ecd0ceb584c3d4e95f41fe8c378e47655"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2760.h"
+          },
+          "hashes": {
+            "sha-256": "be46d66f81230a7d1f4cd9f929eac2f50b09457c1c873f0773bea2da0fe46e48"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2761.h"
+          },
+          "hashes": {
+            "sha-256": "391520b289a49d39a74fa3866504c7e9729649cf6321bdda55266adb80d5add3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2762.h"
+          },
+          "hashes": {
+            "sha-256": "66aa102f2b720902c669842ed33348d85870fe5d327e3d045b6d39aa5f86c6eb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2763.h"
+          },
+          "hashes": {
+            "sha-256": "45e691c87b50dd888a1a077f743c5e0e037f890b760db38eba5522b2536cbfa6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2764.h"
+          },
+          "hashes": {
+            "sha-256": "c9864fdef91e5618190209534fe0fd4eca28aeeb05acf3de9f5b258c33507197"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2765.h"
+          },
+          "hashes": {
+            "sha-256": "b5e4978b51b37d8328e564c436212c71f55e238383ebf0f2304e3df2d77fc0d5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2766.h"
+          },
+          "hashes": {
+            "sha-256": "76480cbf08d95b0df646562114e0e96feab94aa59f0cf8c6404f9b262acf06eb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2767.h"
+          },
+          "hashes": {
+            "sha-256": "665aa46bbc3fa00fcab4a9484428f0b89253be71403f4e53257390f8f2a98e35"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2768.h"
+          },
+          "hashes": {
+            "sha-256": "b6735ba101752b5b533cd7cc0b06681c35ed1104cdac943cb7f60d24d477c057"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2769.h"
+          },
+          "hashes": {
+            "sha-256": "d6ee960594e23bf1a8ae683612b02d0af7fd64d0bcb8b37809e9c6d856ef7e46"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2770.h"
+          },
+          "hashes": {
+            "sha-256": "ea8cd38cb92cef4431df59e59dc12035ffc30dc57d871d98e785244a21690211"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2771.h"
+          },
+          "hashes": {
+            "sha-256": "7aaba0eb8758fc8e5fdc2afc3baf226d179d9eb7990d3aab9d56dbc7e303c6df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2772.h"
+          },
+          "hashes": {
+            "sha-256": "720313459f95a6cb5be2ed73be2b773af46a994ace76ed6363eefc160c9e5957"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2773.h"
+          },
+          "hashes": {
+            "sha-256": "9fc6f65df69c8bf3b0704f38b43ddf9d081123eed1c7ef8e67e111185d27b684"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2774.h"
+          },
+          "hashes": {
+            "sha-256": "d45411494b92f27bcccb5bf8015b02fac418f001fbf567376ee660d387c8465b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2775.h"
+          },
+          "hashes": {
+            "sha-256": "68ae1ba12d893f782803ed8a415a08dc8e2a328b4c5a3d72bdf3903fdcc96639"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2776.h"
+          },
+          "hashes": {
+            "sha-256": "5681094514f96bfe6e0e2bedce038b2371c6c2eadc5c2cb1c583b75a3185dbf1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2821.h"
+          },
+          "hashes": {
+            "sha-256": "f64167379eff147c3d5a3e435e6569a8b6913c7b2cc0566045701b2ff2f6ad9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2822.h"
+          },
+          "hashes": {
+            "sha-256": "be5babf5a813c667bddc0c7ab4529df3f6e348874b73390cb4b168bd314aa00f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2825.h"
+          },
+          "hashes": {
+            "sha-256": "e4bb5be8be3504a8a7856e99843f980e5c942637e656a1d97ac186fe8c511b61"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2826.h"
+          },
+          "hashes": {
+            "sha-256": "eacc669201764cd72d7b77f4eff61ecde6a9572364b64c3a133ab5699e9ebdcf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2827.h"
+          },
+          "hashes": {
+            "sha-256": "c721ae56d0c59b71a55dffd4e065be903f5e56b0e9d5bae34d7abc9330e47f8e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2828.h"
+          },
+          "hashes": {
+            "sha-256": "7a4191d0708aa496f5fedd11bd28e84705d8e8093434b27ca102448ba4a1aa0d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2835.h"
+          },
+          "hashes": {
+            "sha-256": "4eefd1399b60564238c4cf8beed2e026a1db0fea4372f706c600a8e91b39c65c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2847.h"
+          },
+          "hashes": {
+            "sha-256": "ff145b4ca90f14f71aba1ad67cb68d66738f696dc72d7c3c22948840232c1297"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2848.h"
+          },
+          "hashes": {
+            "sha-256": "066cff4a35f108775efa4a82579d2a40984d5c9fc63587c709edbe7f8786c805"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2849.h"
+          },
+          "hashes": {
+            "sha-256": "12799d0595d4c11b3c8eeb49fe21a2e9477c194691cc4fb7d455b96febd6db9e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2850.h"
+          },
+          "hashes": {
+            "sha-256": "2a81c3b8bab712def6861799920144ac97e33a8358d9540a6815b061b996c69d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2851.h"
+          },
+          "hashes": {
+            "sha-256": "8c462a3c3b2172ec4af1336b0e59250bab99d23a217f3d6f9dbd20e5d847a793"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2852.h"
+          },
+          "hashes": {
+            "sha-256": "fb34633e012b765f3da6c311a937ce55cb6132109d713eb46448b294292f927d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2853.h"
+          },
+          "hashes": {
+            "sha-256": "4f5015f46785b69ce8b32d50cc81c7aa3339050e574396996c8a63fd648f39db"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2854.h"
+          },
+          "hashes": {
+            "sha-256": "71e57b92eacbfc328577e2d88aeeeb49dbe781c0ec489d105fb59be699cc4bc4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2855.h"
+          },
+          "hashes": {
+            "sha-256": "fbc066e509261cb51ced73015808b3e07cfe06fea9dd5af728b41d5c515168e2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2856.h"
+          },
+          "hashes": {
+            "sha-256": "62ace9dbd75de4566c363217b67412816a32e458d55b1d7c9a118c211b8ca42b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2857.h"
+          },
+          "hashes": {
+            "sha-256": "167b790a9b5bae340342e4e3acae07942d4bb347255ee9b9fe30c2b9e11bbcf1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2858.h"
+          },
+          "hashes": {
+            "sha-256": "25f8530d2f44a217e0495bc021c82ace5336d2b4ade6fe8149340085be39258e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2859.h"
+          },
+          "hashes": {
+            "sha-256": "2d5389214448e5a7ee2133e3ce260a757b9dbeeb85f27beff0c1b90a46b6ff93"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2860.h"
+          },
+          "hashes": {
+            "sha-256": "7a8c1e7eb450ae52b817f14d30ced6e7c7f27e0542b76e592b8157036518a93f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2862.h"
+          },
+          "hashes": {
+            "sha-256": "caada417b206a576a85f3029ff8da6ab63b841ca34128da5c548f7af465377bf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2863.h"
+          },
+          "hashes": {
+            "sha-256": "9f31d4bc882ac2093bb6be9c30efb8206047de844bbf3aefac950778938b32f5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2570.h"
+          },
+          "hashes": {
+            "sha-256": "d0b5b8716299590acb48bd6cc80ca148f933b2a3c6d6029a7a926317158a9573"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2571.h"
+          },
+          "hashes": {
+            "sha-256": "495143157b49efc56b3cab9154676eb5ae0f79e328dc73ff8012e69f82a5a065"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2572.h"
+          },
+          "hashes": {
+            "sha-256": "f4d5a5d959375b455e5689d71e0a0de0dd91909dee4b9edbe29acbbb94a42397"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2573.h"
+          },
+          "hashes": {
+            "sha-256": "ddf4e63c43dc1f7d4ac122faf23df598d90a8e19649b7f77740d922d99348ab5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2574.h"
+          },
+          "hashes": {
+            "sha-256": "f16d98a400946ac38a1f63fdc0b8b4ea5603a041ef0d01423a904005e871078e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2575.h"
+          },
+          "hashes": {
+            "sha-256": "f5574ac69179b0ddada0317e68f2a71d5033326528917cd3e51971ffb045dacc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2576.h"
+          },
+          "hashes": {
+            "sha-256": "b5588b4f126a487ec856f9080b5cc0bb68c07c1dd6788ea333644aa8b723ef2a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2577.h"
+          },
+          "hashes": {
+            "sha-256": "b443abc984405c19f880cda2177519a9f67590ed8f91dcfbfcde7db89b45d18e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2578.h"
+          },
+          "hashes": {
+            "sha-256": "0c877711a62cc662086a3ac5b778e933917888fd8de30ec10036dbf5a6e82750"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2579.h"
+          },
+          "hashes": {
+            "sha-256": "5bf01183d4134fcfadd15d86011c4c629093c85f53c196612d4286c8d190b920"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2580.h"
+          },
+          "hashes": {
+            "sha-256": "b2e357efdc1e220a0e2da879fe707efee57bc21b6303b33196e42b754b9446d1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2581.h"
+          },
+          "hashes": {
+            "sha-256": "0b039eaaa04808da1940542402a904157cf6758b3d61d1a4f84f7983952e4d27"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2582.h"
+          },
+          "hashes": {
+            "sha-256": "7c6ab93010f52946a47d133526ef6e578fe3e87aac6f81b42746587ff55939f3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2583.h"
+          },
+          "hashes": {
+            "sha-256": "1490c8c17533210e69f230036898abb347efe27f4254291723a7714aa9fd04fd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2584.h"
+          },
+          "hashes": {
+            "sha-256": "058f28c0acf89bb4c1d16f728ccd6f10624676a0db9defdd370a557bce4ff8bf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2585.h"
+          },
+          "hashes": {
+            "sha-256": "f225a4240e96dfcad64a3a371b5a8bbfce2444de35eac446ec7c10ca4bf96348"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2586.h"
+          },
+          "hashes": {
+            "sha-256": "93ddeeffd6083efdcc3c5ca540aea434f1d9ca0770f37290e1259af3094db638"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2587.h"
+          },
+          "hashes": {
+            "sha-256": "92a04686e1343c4feaa49bf90c64fd762fb5b645c8c9c04915ec2dd399132931"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2588.h"
+          },
+          "hashes": {
+            "sha-256": "b8b7d80e9dde33b5858dc99eeca087497eeeaa62a6ef431c7bd62c5f3e624469"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2589.h"
+          },
+          "hashes": {
+            "sha-256": "91d5276ab8a2e862007872667a93f7c2be78f23d75d0220f87d73096ef1f2885"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2590.h"
+          },
+          "hashes": {
+            "sha-256": "0962e3ee32a3863cf2025524b645083edbe98f1c9ced2ef925e2ced9f22a9140"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2591.h"
+          },
+          "hashes": {
+            "sha-256": "050ba7e852f677a6e419e71a93d4b8653c17f7c1f31e68c3b45e8bbec7e5110b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2592.h"
+          },
+          "hashes": {
+            "sha-256": "c1c5a6b6cdb2de723f4b3eb62bc02c660af0752a8ddea408684879f4a1601ea6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2593.h"
+          },
+          "hashes": {
+            "sha-256": "c8fda4d06865ae1cfea3d0ffab1950eadc4b8d4a860356aef5286545cd2a5d24"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2594.h"
+          },
+          "hashes": {
+            "sha-256": "d08ebe2845156c4b1ef33485105030815a97fedf1cabed4a1dd946b28e4d5d4d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2595.h"
+          },
+          "hashes": {
+            "sha-256": "55ba5c38df2d0ec87fd3d60d99d3ed814d5fc3cd3af8566239c76295954785fe"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2596.h"
+          },
+          "hashes": {
+            "sha-256": "63cd264728f4d671d56ca346e4b1d4f501acdc3c2f70c6deb5c43ca090a73a35"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2617.h"
+          },
+          "hashes": {
+            "sha-256": "120db2febed1b468e5306e0ad77d6385ae0a514ea3af5083e33653ab1cc08ead"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2618.h"
+          },
+          "hashes": {
+            "sha-256": "d0bd229dd5385e27b12989215e964fd71b51581ccc3f97ce69228c24c5488920"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementskill/skill2619.h"
+          },
+          "hashes": {
+            "sha-256": "1df2d599bb855f18c712b8d2ff089ea6a7a78c041f181400c8dba6bf6f8f206e"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1123,5): warning MSB4211: Die Eigenschaft "GetTargetPathDependsOn" wird zum ersten Mal auf einen Wert festgelegt, doch dieser wurde bereits in "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2232,5)" verwendet.
+  StdAfx.cpp
+C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\a3dSDK\Include\A3DPlatform.h(19,10): error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx8.h": No such file or directory
+  (Quelldatei „StdAfx.cpp“ wird kompiliert)
+  

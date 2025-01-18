@@ -1,0 +1,239 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"GetTickCount64\" anstelle von \"GetTickCount\". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_TimeSafeChecker.cpp"
+                },
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 10,
+                  "endLine": 23,
+                  "endColumn": 22
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECTimeSafeChecker::Reset",
+                  "decoratedName": "?Reset@CECTimeSafeChecker@@QAEXK@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"GetTickCount64\" anstelle von \"GetTickCount\". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_TimeSafeChecker.cpp"
+                },
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 10,
+                  "endLine": 28,
+                  "endColumn": 22
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECTimeSafeChecker::Reset",
+                  "decoratedName": "?Reset@CECTimeSafeChecker@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"GetTickCount64\" anstelle von \"GetTickCount\". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_TimeSafeChecker.cpp"
+                },
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 25,
+                  "endLine": 38,
+                  "endColumn": 37
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECTimeSafeChecker::IsTimeArrived",
+                  "decoratedName": "?IsTimeArrived@CECTimeSafeChecker@@QBE_NXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"GetTickCount64\" anstelle von \"GetTickCount\". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_TimeSafeChecker.cpp"
+                },
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 23,
+                  "endLine": 53,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECTimeSafeChecker::ElapsedTimeFor",
+                  "decoratedName": "?ElapsedTimeFor@CECTimeSafeChecker@@SAKK@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"GetTickCount64\" anstelle von \"GetTickCount\". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_TimeSafeChecker.cpp"
+                },
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 23,
+                  "endLine": 58,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECTimeSafeChecker::ElapsedTime",
+                  "decoratedName": "?ElapsedTime@CECTimeSafeChecker@@QBEKXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C28159",
+          "message": {
+            "text": "Verwenden Sie eventuell \"GetTickCount64\" anstelle von \"GetTickCount\". Ursache: GetTickCount overflows roughly every 49 days.  Code that does not take that into account can loop indefinitely.  GetTickCount64 operates on 64 bit values and does not have that problem"
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Dominik/Documents/GitHub/PW-Cliente-Source-153/Element/CElementClient/EC_TimeSafeChecker.cpp"
+                },
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 20,
+                  "endLine": 81,
+                  "endColumn": 32
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CECTimeSafeChecker::LeftTime",
+                  "decoratedName": "?LeftTime@CECTimeSafeChecker@@QBEKXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "4682b674774894f53953803543ce6ed9aed6c43526ece8d362c50ca6d3e017f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/element/celementclient/ec_timesafechecker.h"
+          },
+          "hashes": {
+            "sha-256": "067a61aad703dc447afe083654a2a4a1b4c950733b0b944e59587c9176c821b8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dominik/documents/github/pw-cliente-source-153/angelica2/output/acsdk/include/abasedef.h"
+          },
+          "hashes": {
+            "sha-256": "8db0c73d6d605c5e820fb833bba28bd813e8836ebf58225fa55be1722addbe9d"
+          }
+        }
+      ]
+    }
+  ]
+}

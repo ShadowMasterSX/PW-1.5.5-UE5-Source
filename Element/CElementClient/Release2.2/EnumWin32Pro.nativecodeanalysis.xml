@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\Network\IOLib\</FILEPATH>
+      <FILENAME>gnoctets.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6308</DEFECTCODE>
+    <DESCRIPTION>"realloc" gibt möglicherweise einen NULL-Zeiger zurück: Das Zuweisen eines NULL-Zeigers zu "base", das als Argument an "realloc" übergeben wird, führt zu einem Verlust im ursprünglichen Speicherblock</DESCRIPTION>
+    <FUNCTION>GNET::Octets::reserve</FUNCTION>
+    <DECORATED>?reserve@Octets@GNET@@QAEAAV12@I@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\Network\IOLib\</FILEPATH>
+      <FILENAME>gnmarshal.h</FILENAME>
+      <LINE>154</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "GNET::Marshal::OctetsStream::tranpos" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>GNET::Marshal::OctetsStream::{ctor}</FUNCTION>
+    <DECORATED>??0OctetsStream@Marshal@GNET@@QAE@XZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GNET::Marshal::OctetsStream::tranpos</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\Network\IOLib\</FILEPATH>
+      <FILENAME>gnmarshal.h</FILENAME>
+      <LINE>155</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "GNET::Marshal::OctetsStream::tranpos" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>GNET::Marshal::OctetsStream::{ctor}</FUNCTION>
+    <DECORATED>??0OctetsStream@Marshal@GNET@@QAE@ABVOctets@2@@Z</DECORATED>
+    <FUNCLINE>155</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GNET::Marshal::OctetsStream::tranpos</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\Network\IOLib\</FILEPATH>
+      <FILENAME>gnmarshal.h</FILENAME>
+      <LINE>156</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "GNET::Marshal::OctetsStream::tranpos" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>GNET::Marshal::OctetsStream::{ctor}</FUNCTION>
+    <DECORATED>??0OctetsStream@Marshal@GNET@@QAE@ABV012@@Z</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>GNET::Marshal::OctetsStream::tranpos</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Element\CElementClient\defence\</FILEPATH>
+      <FILENAME>EnumWin32Pro.cpp</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6242</DEFECTCODE>
+    <DESCRIPTION>Ein Sprung aus diesem Bereich erzwingt eine lokale Entladung. Dies führt zu Leistungseinbußen. Verlassen Sie den Bereich des Versuchs mithilfe von "__leave".</DESCRIPTION>
+    <FUNCTION>EnumProcs</FUNCTION>
+    <DECORATED>?EnumProcs@@YGHP6GHKGPADJ@ZJ@Z</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

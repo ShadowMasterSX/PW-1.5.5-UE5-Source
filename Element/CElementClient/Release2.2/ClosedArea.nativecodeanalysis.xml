@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AWString.h</FILENAME>
+      <LINE>259</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "swscanf".</DESCRIPTION>
+    <FUNCTION>AWString::ToFloat</FUNCTION>
+    <DECORATED>?ToFloat@AWString@@QBEMXZ</DECORATED>
+    <FUNCLINE>253</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+      <FILENAME>AArray.h</FILENAME>
+      <LINE>407</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Pufferüberlauf beim Schreiben in „aElem“.</DESCRIPTION>
+    <FUNCTION>AArray&lt;POINT_FLOAT,POINT_FLOAT &amp;&gt;::Allocate</FUNCTION>
+    <DECORATED>?Allocate@?$AArray@UPOINT_FLOAT@@AAU1@@@IAE_NH@Z</DECORATED>
+    <FUNCLINE>389</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>393</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>396</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>398</LINE>
+        <COLUMN>4</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"aElem" ist ein Array von 1 Elementen (8 Byte)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>399</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Diese Verzweigung überspringen (Annahme: "!aElem" ist false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>406</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>406</LINE>
+        <COLUMN>17</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>In diese Schleife eintreten (Annahme: "i&lt;m_iNumElem")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>407</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>406</LINE>
+        <COLUMN>32</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"i" kann gleich 1 sein.</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>406</LINE>
+        <COLUMN>17</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Diese Schleife fortsetzen (Annahme: "i&lt;m_iNumElem")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Dominik\Documents\GitHub\PW-Cliente-Source-153\Angelica2\output\acSDK\Include\</FILEPATH>
+        <FILENAME>AArray.h</FILENAME>
+        <LINE>407</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Ungültiger Schreibvorgang nach "aElem[1]" (der schreibbare Bereich ist 0 bis 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
